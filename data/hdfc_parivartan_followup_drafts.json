@@ -1,0 +1,4132 @@
+[
+ {
+  "n": 1,
+  "to": "director.dei@srmist.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1630365356405217527",
+  "threadId": "1a0da81a6dfe0400",
+  "origMessageId": "1a0dbfbd5cfb3699",
+  "origSubject": "External Mentor for SRM DEI"
+ },
+ {
+  "n": 11,
+  "to": "incubation@iiit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7637193429623419172",
+  "threadId": "1a0da8767716a7de",
+  "origMessageId": "1a0dbfbafa65ea73",
+  "origSubject": "Guest Mentor for CIE IIIT Hyderabad"
+ },
+ {
+  "n": 17,
+  "to": "tbi.kongu@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8494115999247851877",
+  "threadId": "1a0da89e21690e38",
+  "origMessageId": "1a0dbfb9e38b9df4",
+  "origSubject": "External Mentor for TBI@KEC"
+ },
+ {
+  "n": 23,
+  "to": "tides@iitr.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8482114572328017145",
+  "threadId": "1a0da8e626a3b583",
+  "origMessageId": "1a0dbfb88c6e9ac9",
+  "origSubject": "Mentoring Support for TIDES IIT Roorkee"
+ },
+ {
+  "n": 29,
+  "to": "manager.bhau@coeptech.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4457864546798492214",
+  "threadId": "1a0da8ecee1813c2",
+  "origMessageId": "1a0dbfb7afa7ddfd",
+  "origSubject": "External Mentor for COEP's Bhau Institute"
+ },
+ {
+  "n": 35,
+  "to": "cusatechfoundation@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-832250906731813685",
+  "threadId": "1a0da8f307567f8b",
+  "origMessageId": "1a0dbfb55f605caa",
+  "origSubject": "External Mentor for CUSAT TBI"
+ },
+ {
+  "n": 41,
+  "to": "xceed@xlri.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3383015573222037751",
+  "threadId": "1a0da8fa1b63771a",
+  "origMessageId": "1a0dbfb424d1ee08",
+  "origSubject": "Industry Mentor for XCEED, XLRI"
+ },
+ {
+  "n": 76,
+  "to": "tbi@pieds-bitspilani.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3630713960878659766",
+  "threadId": "1a0da995a784a3ab",
+  "origMessageId": "1a0dbfb1c8a82647",
+  "origSubject": "Joining the PIEDS Mentor Network"
+ },
+ {
+  "n": 82,
+  "to": "info@aicdsu.foundation",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3337023809094616409",
+  "threadId": "1a0da9a77d14463a",
+  "origMessageId": "1a0dbfb03a47057e",
+  "origSubject": "Mentoring Support for AIC-DSU Innovation Foundation"
+ },
+ {
+  "n": 113,
+  "to": "bicnec@nec.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7090625142622086365",
+  "threadId": "1a0da9ed36387662",
+  "origMessageId": "1a0dbfaf63afd9c2",
+  "origSubject": "External Mentor for K.R. Innovation Centre, NEC"
+ },
+ {
+  "n": 124,
+  "to": "paladugulakshmanarao@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r323849085276937482",
+  "threadId": "1a0daa03004b0c96",
+  "origMessageId": "1a0dbfade08b0fbf",
+  "origSubject": "External Mentor for V R Siddhartha TBI Foundation"
+ },
+ {
+  "n": 139,
+  "to": "contact@aic-techno.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r548725142115447987",
+  "threadId": "1a0daa6b27bc1077",
+  "origMessageId": "1a0dbfac74cb4f01",
+  "origSubject": "External Mentor for AIC Techno, Techno India University"
+ },
+ {
+  "n": 150,
+  "to": "csic@charusat.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1010232223227341962",
+  "threadId": "1a0dab1dfdec143c",
+  "origMessageId": "1a0dbfaa7cb6f342",
+  "origSubject": "External Mentor for CHARUSAT Startup and Innovation Centre"
+ },
+ {
+  "n": 188,
+  "to": "murali@tce.edu",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0dc33c5f28a7c2",
+  "origMessageId": "1a0dc365b8bdde33",
+  "origSubject": "External Mentor for TCE TBI"
+ },
+ {
+  "n": 194,
+  "to": "vpacad@kcgcollege.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8073296766751807598",
+  "threadId": "1a0dc34192e0bfde",
+  "origMessageId": "1a0dc366bc5800fc",
+  "origSubject": "External Mentor for KCG TBI"
+ },
+ {
+  "n": 209,
+  "to": "madhav@gbiindia.in",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0dc3c04209f27c",
+  "origMessageId": "1a0dc43fdf5927a9",
+  "origSubject": "External Mentor for Aditya Global Business Incubator"
+ },
+ {
+  "n": 215,
+  "to": "ceo.incubation@andhrauniversity.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4525861438141285820",
+  "threadId": "1a0dc3c5a8afea11",
+  "origMessageId": "1a0dc440dcb7a967",
+  "origSubject": "External Mentor for Andhra University \u0101-hub"
+ },
+ {
+  "n": 244,
+  "to": "arunachal.startups@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7166017600804453309",
+  "threadId": "1a0dc48f16e31205",
+  "origMessageId": "1a0dc55e422aeb04",
+  "origSubject": "Mentoring Support for Arunachal Pradesh Startups"
+ },
+ {
+  "n": 250,
+  "to": "amitag@iiitnr.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5615700655324914082",
+  "threadId": "1a0dc4944dc169b5",
+  "origMessageId": "1a0dc55f7be6babb",
+  "origSubject": "External Mentor for IIIT Naya Raipur Incubation"
+ },
+ {
+  "n": 256,
+  "to": "ssbaral@goa.bits-pilani.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5657528004993687618",
+  "threadId": "1a0dc49a926b80f1",
+  "origMessageId": "1a0dc560fc759d02",
+  "origSubject": "External Mentor for BITS Goa CIIE"
+ },
+ {
+  "n": 263,
+  "to": "startupharyanacell@gmail.com",
+  "status": "skipped",
+  "reason": "Earlier thread contains human reply from startupharyanacell@gmail.com (asked to enrol as mentor on portal)",
+  "draftId": null,
+  "threadId": "1a0dc4a1d9fcc2a5",
+  "origMessageId": "1a0dc5620d388a8e",
+  "origSubject": "Mentoring Support for Startup Haryana Founders"
+ },
+ {
+  "n": 269,
+  "to": "babar@nitsri.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r9205978368739452978",
+  "threadId": "1a0dc4a6e6e6d79e",
+  "origMessageId": "1a0dc5633e8bc713",
+  "origSubject": "External Mentor for NIT Srinagar IIEDC"
+ },
+ {
+  "n": 275,
+  "to": "adminmanager@derbifoundation.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8250064891837533376",
+  "threadId": "1a0dc4ad121091cf",
+  "origMessageId": "1a0dc56463414252",
+  "origSubject": "External Mentor for DERBI Foundation Founders"
+ },
+ {
+  "n": 281,
+  "to": "startup-centre@mp.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2952911381848048329",
+  "threadId": "1a0dc4b30b7e3a9a",
+  "origMessageId": "1a0dc565724b6070",
+  "origSubject": "Mentoring Support for MP Startup Centre Founders"
+ },
+ {
+  "n": 287,
+  "to": "team@msins.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1323614798017529161",
+  "threadId": "1a0dc4b7fff6c86e",
+  "origMessageId": "1a0dc566d4471b77",
+  "origSubject": "Mentoring Support for MSInS Founders"
+ },
+ {
+  "n": 293,
+  "to": "start.nagaland@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4555267016948870426",
+  "threadId": "1a0dc4be05348d06",
+  "origMessageId": "1a0dc5680117ef77",
+  "origSubject": "Mentoring Support for Startup Nagaland Founders"
+ },
+ {
+  "n": 299,
+  "to": "edc@thapar.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7566454938494250067",
+  "threadId": "1a0dc4c3261873bd",
+  "origMessageId": "1a0dc569300307f7",
+  "origSubject": "External Mentor for Thapar EDC"
+ },
+ {
+  "n": 305,
+  "to": "info@forge-iv.co",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7244539047622454118",
+  "threadId": "1a0dc4c9360a1055",
+  "origMessageId": "1a0dc56a746899dd",
+  "origSubject": "External Mentor for Forge Founders"
+ },
+ {
+  "n": 311,
+  "to": "kashika.dochania@t-hub.co",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1819338257450346574",
+  "threadId": "1a0dc4cf3a841c03",
+  "origMessageId": "1a0dc56b799fc742",
+  "origSubject": "External Mentor for T-Hub Founders"
+ },
+ {
+  "n": 318,
+  "to": "coordinator.jic@itbhu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2714102234225757128",
+  "threadId": "1a0dc4d4fd5b829f",
+  "origMessageId": "1a0dc56cf9a6f4b5",
+  "origSubject": "External Mentor for IIT (BHU) Joint Incubation Centre"
+ },
+ {
+  "n": 324,
+  "to": "mdstep@hijli.iitkgp.ernet.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6996841643068415132",
+  "threadId": "1a0dc4db0c64f111",
+  "origMessageId": "1a0dc56e01272cf9",
+  "origSubject": "External Mentor for STEP IIT Kharagpur"
+ },
+ {
+  "n": 517,
+  "to": "iic@cmr.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6833377869022520176",
+  "threadId": "1a0df76b6c625001",
+  "origMessageId": "1a0e18b43e1f12ad",
+  "origSubject": "External Mentor for CMR University IIC"
+ },
+ {
+  "n": 527,
+  "to": "info@bmu.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1101899402593080686",
+  "threadId": "1a0df773a1b11999",
+  "origMessageId": "1a0e18b3358ed8a2",
+  "origSubject": "External Mentor for BML Munjal I2E"
+ },
+ {
+  "n": 536,
+  "to": "dean.ap@iitgoa.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5640342578932316931",
+  "threadId": "1a0df7d10771398d",
+  "origMessageId": "1a0e18b1f312ae01",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Goa"
+ },
+ {
+  "n": 542,
+  "to": "admissioncell@mnnit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3759518660967853272",
+  "threadId": "1a0df7d9a74f84de",
+  "origMessageId": "1a0e18af3b49bd94",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 MNNIT Allahabad"
+ },
+ {
+  "n": 548,
+  "to": "valan@nitnagaland.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3135110547752086233",
+  "threadId": "1a0df7e16b5ab375",
+  "origMessageId": "1a0e18ae422f7591",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Nagaland"
+ },
+ {
+  "n": 554,
+  "to": "dean_acad@nitmz.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4923942723848162805",
+  "threadId": "1a0df7ea214c522f",
+  "origMessageId": "1a0e18ad306ac8d6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Mizoram"
+ },
+ {
+  "n": 560,
+  "to": "academics@iiitm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7450773358081502267",
+  "threadId": "1a0df7f2c06d6165",
+  "origMessageId": "1a0e18ac527f7a1f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 ABV-IIITM Gwalior"
+ },
+ {
+  "n": 566,
+  "to": "dean.acad@iiita.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7210534131125047112",
+  "threadId": "1a0df7fb72b971b2",
+  "origMessageId": "1a0e18ab51ad5739",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Allahabad"
+ },
+ {
+  "n": 572,
+  "to": "bhupendra@iiitp.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3748096834419983839",
+  "threadId": "1a0df80321bb84a7",
+  "origMessageId": "1a0e18a9b6804231",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Pune"
+ },
+ {
+  "n": 578,
+  "to": "murli.tiwari@gkv.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r926238559513582897",
+  "threadId": "1a0df80c165a6afc",
+  "origMessageId": "1a0e18a89f3254f8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Gurukula Kangri Vishwavidyalaya"
+ },
+ {
+  "n": 584,
+  "to": "amit.pandit@smvdu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6084899963441531451",
+  "threadId": "1a0df81505f0a5d7",
+  "origMessageId": "1a0e18a79c5869ae",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Shri Mata Vaishno Devi University"
+ },
+ {
+  "n": 590,
+  "to": "admission@gsv.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7271153635602849315",
+  "threadId": "1a0df81e2bf9fbc5",
+  "origMessageId": "1a0e18a6b02d2021",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Gati Shakti Vishwavidyalaya"
+ },
+ {
+  "n": 596,
+  "to": "mbhargava@nitttrbpl.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2081607352805960150",
+  "threadId": "1a0df825a846a8c7",
+  "origMessageId": "1a0e18a41a1c084f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NITTTR Bhopal"
+ },
+ {
+  "n": 603,
+  "to": "contact@dbuniversity.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4511899508692828562",
+  "threadId": "1a0e1679660f787a",
+  "origMessageId": "1a0e18a323266ae8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Assam Don Bosco University School of Technology"
+ },
+ {
+  "n": 609,
+  "to": "bksjec14@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1037720594279830110",
+  "threadId": "1a0e1681ad94b209",
+  "origMessageId": "1a0e18a22495702c",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Baba Kuma Singh Ji Engg College, Amritsar"
+ },
+ {
+  "n": 615,
+  "to": "gec-modasa-dte@gujarat.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8270391844243598956",
+  "threadId": "1a0e168a438f433c",
+  "origMessageId": "1a0e18a1427085be",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Government Engineering College, Modasa"
+ },
+ {
+  "n": 621,
+  "to": "info@heritageit.edu",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0e16927bfd6a69",
+  "origMessageId": "1a0e189fa4195443",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Heritage Institute of Technology"
+ },
+ {
+  "n": 627,
+  "to": "itmlko@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2228182000866865361",
+  "threadId": "1a0e169e51a7ca20",
+  "origMessageId": "1a0e189e8d99325b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Institute of Technology & Management, Lucknow"
+ },
+ {
+  "n": 633,
+  "to": "principal@pgmozecoepune.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r483178330047163947",
+  "threadId": "1a0e16a6d88c0b64",
+  "origMessageId": "1a0e189d2b400953",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Genba Sopanrao Moze Trust's Parvatibai Genba Moze College of Engineering, Wagholi, Pune"
+ },
+ {
+  "n": 639,
+  "to": "bbeckokrajhar@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6275551476532283827",
+  "threadId": "1a0e16af247eaa20",
+  "origMessageId": "1a0e189c50542f5b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bineswar Brahma Engineering College"
+ },
+ {
+  "n": 645,
+  "to": "info.gnit@jisgroup.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2889580263768029133",
+  "threadId": "1a0e16b895116be1",
+  "origMessageId": "1a0e189ac4eecbc4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Gurunanak Institute of Technology"
+ },
+ {
+  "n": 651,
+  "to": "info@stvincentngp.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4456226094867527002",
+  "threadId": "1a0e16c0d8a67627",
+  "origMessageId": "1a0e1899d04ebe62",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 St. Vincent Pallotti College of Engg. & Technology, Nagpur"
+ },
+ {
+  "n": 657,
+  "to": "info@cecbilaspur.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4054991766411214025",
+  "threadId": "1a0e16c8f8d35585",
+  "origMessageId": "1a0e1898ebae8c8e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Chouksey Engineering College"
+ },
+ {
+  "n": 663,
+  "to": "info@tiaedu.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2449561017815792757",
+  "threadId": "1a0e16d1f7b37c9b",
+  "origMessageId": "1a0e1897c805bbdc",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Techno College of Engineering Agartala"
+ },
+ {
+  "n": 669,
+  "to": "office@dec.ac.in",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0e16da49c3704f",
+  "origMessageId": "1a0e18961caaca31",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Dhemaji Engineering College"
+ },
+ {
+  "n": 675,
+  "to": "principal@mrcew.ac.in",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0e16e26ec66ba0",
+  "origMessageId": "1a0e1895148f13f9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Malla Reddy Engineering College for Women"
+ },
+ {
+  "n": 681,
+  "to": "ucekprincipal@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1327481663346087448",
+  "threadId": "1a0e16eacbc1b7f8",
+  "origMessageId": "1a0e1893fe03e0c0",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University College of Engineering, Kariavattom"
+ },
+ {
+  "n": 687,
+  "to": "msitadmin@msit.in",
+  "status": "skipped",
+  "reason": "Earlier thread contains a bounce (Delivery Status Notification Failure, address not found)",
+  "draftId": null,
+  "threadId": "1a0e17a8cf39f3ac",
+  "origMessageId": "1a0e1892a9f5afff",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Maharaja Surajmal Institute of Technology"
+ },
+ {
+  "n": 693,
+  "to": "annamalaiarcoe@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6711528415193106043",
+  "threadId": "1a0e17b106d7f02c",
+  "origMessageId": "1a0e18912c73e79f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Annamalaiar College of Engineering"
+ },
+ {
+  "n": 699,
+  "to": "principal.phcet@mes.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4046277780333636623",
+  "threadId": "1a0e17b970c33762",
+  "origMessageId": "1a0e188ff35f083b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Pillai HOC College of Engineering and Technology"
+ },
+ {
+  "n": 705,
+  "to": "tpo@ccet.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1138348028956503690",
+  "threadId": "1a0e17efdf4e31e5",
+  "origMessageId": "1a0e188ec6838a00",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Chandigarh College of Engineering and Technology"
+ },
+ {
+  "n": 711,
+  "to": "info@mckvie.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3039492785893679246",
+  "threadId": "1a0e17f95343cd70",
+  "origMessageId": "1a0e188dc5f4aae6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 MCKV Institute of Engineering"
+ },
+ {
+  "n": 717,
+  "to": "info@anandice.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3852611418026785193",
+  "threadId": "1a0e1801672b1e71",
+  "origMessageId": "1a0e188ca4678343",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Anand International College of Engineering"
+ },
+ {
+  "n": 723,
+  "to": "admission@hgpi.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5034080373685584565",
+  "threadId": "1a0e180b0c57d063",
+  "origMessageId": "1a0e188b3b4c0790",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Himalayan Institute of Engineering & Technology"
+ },
+ {
+  "n": 729,
+  "to": "contact@kgec.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3260639434613732097",
+  "threadId": "1a0e1814b33b3739",
+  "origMessageId": "1a0e188a27bc81fa",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Kalyani Government Engineering College"
+ },
+ {
+  "n": 735,
+  "to": "info@riet.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r230478649476185290",
+  "threadId": "1a0e181e7f98fb42",
+  "origMessageId": "1a0e1888f92512bb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Ramgarhia Institute of Engineering & Technology"
+ },
+ {
+  "n": 741,
+  "to": "contact@bcetdgp.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8141596095089978977",
+  "threadId": "1a0e1826a168f186",
+  "origMessageId": "1a0e188796fbc547",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bengal College of Engineering & Technology"
+ },
+ {
+  "n": 1440,
+  "to": "mrutyunjay@kiitincubator.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6016991647094820821",
+  "threadId": "1a0e7abda6932e6c",
+  "origMessageId": "1a0ebb2718a8f6d0",
+  "origSubject": "External Mentor for KIIT Technology Business Incubator"
+ },
+ {
+  "n": 2,
+  "to": "info@mesaschool.co",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5945642072028164766",
+  "threadId": "1a0da81aba107f49",
+  "origMessageId": "1a0dbfbd3f8b58d0",
+  "origSubject": "Supporting Founders at Mesa Startup Lab"
+ },
+ {
+  "n": 12,
+  "to": "contact@itic.iith.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8402063781548936086",
+  "threadId": "1a0da87776660fa0",
+  "origMessageId": "1a0dbfbad3874547",
+  "origSubject": "External Mentor for iTIC Incubator"
+ },
+ {
+  "n": 18,
+  "to": "manager-incubation@iiitb.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4421220612172532732",
+  "threadId": "1a0da89f49dbb6d6",
+  "origMessageId": "1a0dbfb9dc7eeafb",
+  "origSubject": "Mentoring Support for IIITB Innovation Centre"
+ },
+ {
+  "n": 24,
+  "to": "ceo@ihub-awadh.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1217879936535978233",
+  "threadId": "1a0da8e74b0749bc",
+  "origMessageId": "1a0dbfb86f1dfb03",
+  "origSubject": "Joining the AWaDH Mentor Network"
+ },
+ {
+  "n": 30,
+  "to": "iic@pdpu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5443135782322355801",
+  "threadId": "1a0da8eded0b8fa4",
+  "origMessageId": "1a0dbfb77227145e",
+  "origSubject": "Mentoring Support for PDEU IIC"
+ },
+ {
+  "n": 36,
+  "to": "info@amritatbi.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2129893748375099661",
+  "threadId": "1a0da8f4e3899ae3",
+  "origMessageId": "1a0dbfb51c97eb9b",
+  "origSubject": "Mentoring Support for Amrita TBI"
+ },
+ {
+  "n": 42,
+  "to": "cfi@spjimr.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2294616911289966122",
+  "threadId": "1a0da8fb15558ca8",
+  "origMessageId": "1a0dbfb409e33890",
+  "origSubject": "Mentoring Support for the SPJIMR Start-up Hub"
+ },
+ {
+  "n": 77,
+  "to": "contact@scei.org.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7272743748142684127",
+  "threadId": "1a0da996de5e17b1",
+  "origMessageId": "1a0dbfb1aeb72c7b",
+  "origSubject": "External Mentor for SCEI, Symbiosis"
+ },
+ {
+  "n": 83,
+  "to": "pierc@paruluniversity.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5640517584872909147",
+  "threadId": "1a0da9a853aa754d",
+  "origMessageId": "1a0dbfaff45ec1dc",
+  "origSubject": "External Mentor for PIERC, Parul University"
+ },
+ {
+  "n": 114,
+  "to": "incubation@veltechtbi.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4315399627777217538",
+  "threadId": "1a0da9ee58f85586",
+  "origMessageId": "1a0dbfaec7e8c150",
+  "origSubject": "External Mentor for Vel Tech TBI"
+ },
+ {
+  "n": 129,
+  "to": "info@sjce-step.in",
+  "status": "skipped",
+  "reason": "bounced (DNS error Failure notice in thread)",
+  "draftId": null,
+  "threadId": "1a0daa5ac40421d0",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 140,
+  "to": "aic@nmims.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8873902130026700174",
+  "threadId": "1a0daa6c3dcc0d63",
+  "origMessageId": "1a0dbfac3f1d7bac",
+  "origSubject": "Industry Mentor for AIC-NMIMS"
+ },
+ {
+  "n": 151,
+  "to": "director.gicrise@galgotiasuniversity.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-446561024862317751",
+  "threadId": "1a0dab1ef40fa1b0",
+  "origMessageId": "1a0dbfa9b0d6446c",
+  "origSubject": "External Mentor for GIC RISE, Galgotias University"
+ },
+ {
+  "n": 189,
+  "to": "meenakshi@annauniv.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r689475832582779586",
+  "threadId": "1a0dc33d3b7c5168",
+  "origMessageId": "1a0dc365fabc9b2f",
+  "origSubject": "External Mentor for Anna University TBI"
+ },
+ {
+  "n": 195,
+  "to": "edwinjose@psr.edu.in",
+  "status": "skipped",
+  "reason": "bounced (Address not found Failure)",
+  "draftId": null,
+  "threadId": "1a0dc3426e18d928",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 210,
+  "to": "rvrjccestpf@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1388842750287279779",
+  "threadId": "1a0dc3c130590a12",
+  "origMessageId": "1a0dc43ff41e0732",
+  "origSubject": "External Mentor for RJ e-Nest Startups"
+ },
+ {
+  "n": 216,
+  "to": "innovationcouncil@vidyanikethan.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1234404735104356369",
+  "threadId": "1a0dc3c694e79fd0",
+  "origMessageId": "1a0dc440fd5a5cfb",
+  "origSubject": "External Mentor for Sree Vidyanikethan Innovation Council"
+ },
+ {
+  "n": 245,
+  "to": "headciie@tezu.ernet.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1993297634860088014",
+  "threadId": "1a0dc4900631ef1a",
+  "origMessageId": "1a0dc55e8b19166d",
+  "origSubject": "External Mentor for Tezpur University CIIE"
+ },
+ {
+  "n": 251,
+  "to": "tih@iitbhilai.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4855825011660888402",
+  "threadId": "1a0dc49638cee06a",
+  "origMessageId": "1a0dc55fbf85f1c1",
+  "origSubject": "External Mentor for IBITF, IIT Bhilai"
+ },
+ {
+  "n": 257,
+  "to": "spc-dit.goa@gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4726471168747558070",
+  "threadId": "1a0dc49b5fb81b6d",
+  "origMessageId": "1a0dc5610d7d7c53",
+  "origSubject": "Mentoring Support for Startup Goa Founders"
+ },
+ {
+  "n": 264,
+  "to": "gm@iitmandicatalyst.in",
+  "status": "skipped",
+  "reason": "bounced (Address not found Failure)",
+  "draftId": null,
+  "threadId": "1a0dc4a29019091f",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 270,
+  "to": "jkediciibm@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3380439589567673124",
+  "threadId": "1a0dc4a7c233a0e5",
+  "origMessageId": "1a0dc5635a6b9efb",
+  "origSubject": "Mentoring Support for JKEDI Founders"
+ },
+ {
+  "n": 276,
+  "to": "office@sid.iisc.ernet.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5355161593404166729",
+  "threadId": "1a0dc4adf8e44e05",
+  "origMessageId": "1a0dc5649a0b9af9",
+  "origSubject": "External Mentor for SID IISc Founders"
+ },
+ {
+  "n": 282,
+  "to": "manager@sandipincubator.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7200073134182571594",
+  "threadId": "1a0dc4b3d5f2333f",
+  "origMessageId": "1a0dc565a3ef0538",
+  "origSubject": "External Mentor for Sandip TBI Founders"
+ },
+ {
+  "n": 288,
+  "to": "contact@startupmanipur.in",
+  "status": "skipped",
+  "reason": "bounced (Failure notice)",
+  "draftId": null,
+  "threadId": "1a0dc4b8d885fce5",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 294,
+  "to": "iic.hrclub@iimsambalpur.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Address not found Failure)",
+  "draftId": null,
+  "threadId": "1a0dc4bee09682bc",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 300,
+  "to": "startup-pb@punjabinfotech.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6429177207390413272",
+  "threadId": "1a0dc4c4152f5e92",
+  "origMessageId": "1a0dc5695c08032b",
+  "origSubject": "Mentoring Support for Startup Punjab Founders"
+ },
+ {
+  "n": 306,
+  "to": "info@villgro.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r574806348300809028",
+  "threadId": "1a0dc4ca00de11bf",
+  "origMessageId": "1a0dc56a8bbcb0ce",
+  "origSubject": "External Mentor for Villgro Founders"
+ },
+ {
+  "n": 312,
+  "to": "aspire@uohyd.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2005695089682732827",
+  "threadId": "1a0dc4cff06118f1",
+  "origMessageId": "1a0dc56b936d629b",
+  "origSubject": "External Mentor for UoH ASPIRE Founders"
+ },
+ {
+  "n": 319,
+  "to": "siic@iitk.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4987832419607134475",
+  "threadId": "1a0dc4d5c3f131ea",
+  "origMessageId": "1a0dc56d0ebe32f6",
+  "origSubject": "External Mentor for SIIC IIT Kanpur"
+ },
+ {
+  "n": 325,
+  "to": "iicju@jadavpuruniversity.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4386223036746122038",
+  "threadId": "1a0dc4dc5d4775c2",
+  "origMessageId": "1a0dc56e3eab307c",
+  "origSubject": "External Mentor for Jadavpur University Startups"
+ },
+ {
+  "n": 518,
+  "to": "jhub@jntuh.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4313720043647174347",
+  "threadId": "1a0df76ca3e3fc0f",
+  "origMessageId": "1a0e18b4139d3edd",
+  "origSubject": "External Mentor for JNTUH DEIS"
+ },
+ {
+  "n": 529,
+  "to": "radhakrishnanek@mgu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2656390208617920090",
+  "threadId": "1a0df775c6e9b787",
+  "origMessageId": "1a0e18b2e86afc6f",
+  "origSubject": "External Mentor for MGU Business Innovation & Incubation Centre"
+ },
+ {
+  "n": 537,
+  "to": "chair.jee@iitpkd.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8128193796789589280",
+  "threadId": "1a0df7d243e6b5d9",
+  "origMessageId": "1a0e18b1d7231d47",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Palakkad"
+ },
+ {
+  "n": 543,
+  "to": "john.me@faculty.nita.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6274834098329055537",
+  "threadId": "1a0df7daf4db84be",
+  "origMessageId": "1a0e18af14395a25",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Agartala"
+ },
+ {
+  "n": 549,
+  "to": "dean-acad@nitpy.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8223835511449217776",
+  "threadId": "1a0df7e2a4ad5ff1",
+  "origMessageId": "1a0e18ae17320cbb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Puducherry"
+ },
+ {
+  "n": 555,
+  "to": "rdmisra@mech.nits.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3985982726980578136",
+  "threadId": "1a0df7eb62b4c015",
+  "origMessageId": "1a0e18ad0c7ca201",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Silchar"
+ },
+ {
+  "n": 561,
+  "to": "admissions@iiitkota.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3998551220594593522",
+  "threadId": "1a0df7f3f5c2a2ca",
+  "origMessageId": "1a0e18ac25c033a1",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Kota"
+ },
+ {
+  "n": 567,
+  "to": "admission@iiitmanipur.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7013199933436427654",
+  "threadId": "1a0df7fcc716d2ec",
+  "origMessageId": "1a0e18aa9b08ec7d",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Senapati Manipur"
+ },
+ {
+  "n": 573,
+  "to": "ugadmissions@iiitbhopal.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8383609476650987401",
+  "threadId": "1a0df804639d6933",
+  "origMessageId": "1a0e18a987f57041",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Bhopal"
+ },
+ {
+  "n": 579,
+  "to": "deanetggv@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4208476545055439628",
+  "threadId": "1a0df80d696a2084",
+  "origMessageId": "1a0e18a86420b2a4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Guru Ghasidas Vishwavidyalaya"
+ },
+ {
+  "n": 585,
+  "to": "admissions@pec.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3664584080631352929",
+  "threadId": "1a0df816465f4a86",
+  "origMessageId": "1a0e18a778a77c25",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Punjab Engineering College"
+ },
+ {
+  "n": 591,
+  "to": "dir-ropar@nielit.gov.in",
+  "status": "skipped",
+  "reason": "bounced (Address not found Failure)",
+  "draftId": null,
+  "threadId": "1a0df81f3ee6b36f",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 597,
+  "to": "dir-aizawl@nielit.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3695002023026178880",
+  "threadId": "1a0df826ed362599",
+  "origMessageId": "1a0e18a3f1552805",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Aizawl"
+ },
+ {
+  "n": 604,
+  "to": "bpitindia@yahoo.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7124396419086922323",
+  "threadId": "1a0e167adfbb3d1e",
+  "origMessageId": "1a0e18a2f17ff1ae",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bhagwan Parshuram Institute of Technology"
+ },
+ {
+  "n": 610,
+  "to": "adminrgit@mctrgit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6689743638145528958",
+  "threadId": "1a0e168325b43ad8",
+  "origMessageId": "1a0e18a207c9963b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 MCT's Rajiv Gandhi Institute of Technology, Mumbai"
+ },
+ {
+  "n": 616,
+  "to": "office@mictech.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1856935719769323940",
+  "threadId": "1a0e168baf6c29f0",
+  "origMessageId": "1a0e18a1076c4522",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 DVR & Dr. HS MIC College of Technology"
+ },
+ {
+  "n": 622,
+  "to": "info.jiscollege@jisgroup.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3621700394285156590",
+  "threadId": "1a0e1693dfc74a62",
+  "origMessageId": "1a0e189f829655ef",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 JIS College of Engineering"
+ },
+ {
+  "n": 628,
+  "to": "podhigaitech@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r191416634065320172",
+  "threadId": "1a0e169fbc802f82",
+  "origMessageId": "1a0e189e46f8cdbb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Podhigai College of Engineering & Technology"
+ },
+ {
+  "n": 634,
+  "to": "info@svceindore.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r888361071368279403",
+  "threadId": "1a0e16a8593322b3",
+  "origMessageId": "1a0e189d1e25865c",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Swami Vivekanand College of Engineering, Indore"
+ },
+ {
+  "n": 640,
+  "to": "info@gecbuxar.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Failure after delays)",
+  "draftId": null,
+  "threadId": "1a0e16b077a7d1d6",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 646,
+  "to": "info@nsec.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2329289441642692453",
+  "threadId": "1a0e16b9dff87493",
+  "origMessageId": "1a0e189ab657eb3e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Netaji Subhash Engineering College"
+ },
+ {
+  "n": 652,
+  "to": "admissions@providence.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4515882966519263325",
+  "threadId": "1a0e16c23098307c",
+  "origMessageId": "1a0e1899b97e667f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Providence College of Engineering"
+ },
+ {
+  "n": 658,
+  "to": "helpdesk-admission@dseu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3395201202510231312",
+  "threadId": "1a0e16ca4fa81749",
+  "origMessageId": "1a0e1898d4e419c8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 DSEU Okhla-II Campus"
+ },
+ {
+  "n": 664,
+  "to": "info@kmit.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4108703976569208111",
+  "threadId": "1a0e16d35be2ff90",
+  "origMessageId": "1a0e18979b079075",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Keshav Memorial Institute of Technology"
+ },
+ {
+  "n": 670,
+  "to": "gecdaman@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5148759560061312185",
+  "threadId": "1a0e16db8e994e4b",
+  "origMessageId": "1a0e1895fb0a90b2",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Government Engineering College Daman"
+ },
+ {
+  "n": 676,
+  "to": "principal@ecb.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6299595473112366311",
+  "threadId": "1a0e16e3d7f20361",
+  "origMessageId": "1a0e1894fba9b7d9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Engineering College Bikaner"
+ },
+ {
+  "n": 682,
+  "to": "admissions@dsatm.edu.in",
+  "status": "skipped",
+  "reason": "bounced (Address not found Failure)",
+  "draftId": null,
+  "threadId": "1a0e16ec28c92077",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 688,
+  "to": "cuadmissionbtech@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7824932804857944868",
+  "threadId": "1a0e17aa3f9ef695",
+  "origMessageId": "1a0e189294fdb79d",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University College of Science & Technology, Calcutta University"
+ },
+ {
+  "n": 694,
+  "to": "cipetiptjaipur@cipet.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6225283079612247175",
+  "threadId": "1a0e17b28bfea457",
+  "origMessageId": "1a0e1890eb104691",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 CIPET Jaipur (Central Institute of Petrochemicals Engineering and Technology)"
+ },
+ {
+  "n": 700,
+  "to": "principalakshayait@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2229357934642552513",
+  "threadId": "1a0e17bad9790253",
+  "origMessageId": "1a0e188f883abe57",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Akshaya Institute of Technology"
+ },
+ {
+  "n": 706,
+  "to": "registrar@kalingauniversity.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3881006603639164331",
+  "threadId": "1a0e17f13679940e",
+  "origMessageId": "1a0e188e8a53a224",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Kalinga University - Faculty of Technology"
+ },
+ {
+  "n": 712,
+  "to": "deanctoffice@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-790283309782429450",
+  "threadId": "1a0e17fa92a1bda9",
+  "origMessageId": "1a0e188d962a0ed4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 College of Technology, Pantnagar"
+ },
+ {
+  "n": 718,
+  "to": "info@cgc.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6960541564198391912",
+  "threadId": "1a0e1802cbfb346d",
+  "origMessageId": "1a0e188c9fa3becc",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Chandigarh Engineering College-CGC, Landran, Mohali"
+ },
+ {
+  "n": 724,
+  "to": "info@advancedinstitutions.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1275603055855102888",
+  "threadId": "1a0e180c62ff7e64",
+  "origMessageId": "1a0e188ae1f65a1b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Advanced Institute of Technology and Management"
+ },
+ {
+  "n": 730,
+  "to": "hmce2021@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5825167017028600957",
+  "threadId": "1a0e18162c5aae53",
+  "origMessageId": "1a0e1889b581c2e8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Hemnalini Memorial College of Engineering"
+ },
+ {
+  "n": 736,
+  "to": "admin@aceatech.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3131618013941475824",
+  "threadId": "1a0e181fe143f736",
+  "origMessageId": "1a0e1888ba717aec",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Alpha College of Engineering & Technology"
+ },
+ {
+  "n": 742,
+  "to": "gtb4cec@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4921885912950216689",
+  "threadId": "1a0e182839b443a6",
+  "origMessageId": "1a0e1887560a5158",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Guru Tegh Bahadur 4th Centenary Engineering College"
+ },
+ {
+  "n": 1441,
+  "to": "virendra.bhojwani@mituniversity.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2376161689529100717",
+  "threadId": "1a0e7abefd2244d3",
+  "origMessageId": "1a0ebb1808daabf7",
+  "origSubject": "External Mentor for MIT Art, Design and Technology University"
+ },
+ {
+  "n": 3,
+  "to": "info@startupmission.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6019607227640982372",
+  "threadId": "1a0da81bcdd18ce6",
+  "origMessageId": "1a0dbfbce0f63ae3",
+  "origSubject": "India and Germany Startup Mentoring with KSUM"
+ },
+ {
+  "n": 13,
+  "to": "contact@iimcip.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5218321207862032975",
+  "threadId": "1a0da8789098cb8d",
+  "origMessageId": "1a0dbfbaa2d6aa87",
+  "origSubject": "Supporting Founders at IIM Calcutta Innovation Park"
+ },
+ {
+  "n": 19,
+  "to": "step@nitk.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4663016624894455422",
+  "threadId": "1a0da8a05f9f92b2",
+  "origMessageId": "1a0dbfb9b7e0ea50",
+  "origSubject": "External Mentor for NITK STEP"
+ },
+ {
+  "n": 25,
+  "to": "miic@mnit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r548504003912114703",
+  "threadId": "1a0da8e848e06663",
+  "origMessageId": "1a0dbfb85dc33a62",
+  "origSubject": "External Mentor for MIIC, MNIT Jaipur"
+ },
+ {
+  "n": 31,
+  "to": "contact@gusec.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8811995705855239877",
+  "threadId": "1a0da8eef3db38ef",
+  "origMessageId": "1a0dbfb746305541",
+  "origSubject": "Supporting Founders at GUSEC"
+ },
+ {
+  "n": 37,
+  "to": "ciif@chitkara.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2128393194918396017",
+  "threadId": "1a0da8f5f55a8492",
+  "origMessageId": "1a0dbfb4ec50a587",
+  "origSubject": "External Mentor for Chitkara CIIF"
+ },
+ {
+  "n": 72,
+  "to": "info@citchennai.net",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5579119888146481834",
+  "threadId": "1a0da9918b72a8e1",
+  "origMessageId": "1a0dbfb29af9b943",
+  "origSubject": "External Mentor for CITBIF, Chennai Institute of Technology"
+ },
+ {
+  "n": 78,
+  "to": "runway@ddn.upes.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8350569450675803019",
+  "threadId": "1a0da997a25a2a54",
+  "origMessageId": "1a0dbfb11edc23e6",
+  "origSubject": "Mentoring Support for UPES Runway"
+ },
+ {
+  "n": 84,
+  "to": "amit.sata@marwadieducation.edu.in",
+  "status": "skipped",
+  "reason": "human reply from vivekg.patel@marwadieducation.edu.in",
+  "draftId": null,
+  "threadId": "1a0da9a94f495ebd",
+  "origMessageId": "1a0dbfafd998d76b",
+  "origSubject": "External Mentor for MUIIR, Marwadi University"
+ },
+ {
+  "n": 115,
+  "to": "director_ie@karunya.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5613419415417999449",
+  "threadId": "1a0da9ef5ba85cff",
+  "origMessageId": "1a0dbfae9ca4b0ac",
+  "origSubject": "External Mentor for Karunya Technology Business Incubation Park"
+ },
+ {
+  "n": 130,
+  "to": "launchpad@sharda.ac.in",
+  "status": "skipped",
+  "reason": "human reply from launchpad@sharda.ac.in (forwarded to onboarding contact)",
+  "draftId": null,
+  "threadId": "1a0daa5bc3400745",
+  "origMessageId": "1a0dbfad9697401f",
+  "origSubject": "Industry Mentor for Sharda Launchpad"
+ },
+ {
+  "n": 143,
+  "to": "manish.mathur@bennett.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-88687291952545522",
+  "threadId": "1a0daac232e67699",
+  "origMessageId": "1a0dbfac179a6f0d",
+  "origSubject": "External Mentor for Bennett Hatchery"
+ },
+ {
+  "n": 152,
+  "to": "glbcri@glbitm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2314376893340336586",
+  "threadId": "1a0dab1ffb7e9ba7",
+  "origMessageId": "1a0dbfa83e3bec95",
+  "origSubject": "External Mentor for GL Bajaj Center for Research and Incubation"
+ },
+ {
+  "n": 190,
+  "to": "dirced@annauniv.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2958170341404938435",
+  "threadId": "1a0dc34c54ea950f",
+  "origMessageId": "1a0dc36719b4f9f4",
+  "origSubject": "External Mentor for CED, Anna University"
+ },
+ {
+  "n": 196,
+  "to": "info@svcetech.org",
+  "status": "skipped",
+  "reason": "bounced (domain not found)",
+  "draftId": null,
+  "threadId": "1a0dc34d023858ea",
+  "origMessageId": "1a0dc36732307dcd",
+  "origSubject": "External Mentor for the Technology Incubation Centre, SVCET Kanchipuram"
+ },
+ {
+  "n": 211,
+  "to": "edc@srkrec.ac.in",
+  "status": "skipped",
+  "reason": "bounced (message blocked)",
+  "draftId": null,
+  "threadId": "1a0dc3c20bb5287c",
+  "origMessageId": "1a0dc44015f44013",
+  "origSubject": "External Mentor for SRKR Entrepreneurship Development Cell"
+ },
+ {
+  "n": 217,
+  "to": "iic@adityatekkali.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5456215566219103803",
+  "threadId": "1a0dc3c7647ca506",
+  "origMessageId": "1a0dc4410a120a5f",
+  "origSubject": "External Mentor for AITAM Institution's Innovation Council"
+ },
+ {
+  "n": 246,
+  "to": "startupassam2018@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5561100398146135611",
+  "threadId": "1a0dc490fe40171a",
+  "origMessageId": "1a0dc55eb5a3cd02",
+  "origSubject": "Mentoring Support for Startup Assam Founders"
+ },
+ {
+  "n": 252,
+  "to": "nitrrfie@nitrr.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1241566829465023415",
+  "threadId": "1a0dc49711951fce",
+  "origMessageId": "1a0dc55ff044f02c",
+  "origSubject": "External Mentor for NITRRFIE Founders"
+ },
+ {
+  "n": 259,
+  "to": "icstup@gujarat.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3202371037516883376",
+  "threadId": "1a0dc49d3da1ef17",
+  "origMessageId": "1a0dc56165bb74b6",
+  "origSubject": "Mentoring Support for Startup Gujarat Founders"
+ },
+ {
+  "n": 265,
+  "to": "startuphimachal@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6699812073160646478",
+  "threadId": "1a0dc4a37b045031",
+  "origMessageId": "1a0dc56262a687e5",
+  "origSubject": "Mentoring Support for Startup Himachal Founders"
+ },
+ {
+  "n": 271,
+  "to": "ciie@iitism.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r722990541332759694",
+  "threadId": "1a0dc4a9a9167bf0",
+  "origMessageId": "1a0dc563d84bcd7c",
+  "origSubject": "External Mentor for IIT (ISM) Dhanbad CIIE"
+ },
+ {
+  "n": 277,
+  "to": "startupcell@karnataka.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7954666054216346403",
+  "threadId": "1a0dc4aed3b6ef3a",
+  "origMessageId": "1a0dc564c9f15e21",
+  "origSubject": "Mentoring Support for Karnataka Startup Founders"
+ },
+ {
+  "n": 283,
+  "to": "managerincubator@venturecenter.co.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8687919474522396616",
+  "threadId": "1a0dc4b4da7f0b8f",
+  "origMessageId": "1a0dc565db18790b",
+  "origSubject": "External Mentor for Venture Center Founders"
+ },
+ {
+  "n": 289,
+  "to": "chair.incubation@iimshillong.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4796114220390479017",
+  "threadId": "1a0dc4b9b27de9e1",
+  "origMessageId": "1a0dc5676c3f56bc",
+  "origSubject": "External Mentor for IIM Shillong Incubation"
+ },
+ {
+  "n": 295,
+  "to": "office.rep@iitbbs.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2529723570608131467",
+  "threadId": "1a0dc4bfdeed1220",
+  "origMessageId": "1a0dc5684c393d3e",
+  "origSubject": "External Mentor for IIT Bhubaneswar REP"
+ },
+ {
+  "n": 301,
+  "to": "ech.uor@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r80100522205933418",
+  "threadId": "1a0dc4c5da5dfc71",
+  "origMessageId": "1a0dc569d8f007e7",
+  "origSubject": "External Mentor for University of Rajasthan ECH"
+ },
+ {
+  "n": 307,
+  "to": "strategychair@iimtrichy.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5770611329846664272",
+  "threadId": "1a0dc4cacd8df045",
+  "origMessageId": "1a0dc56abed868b0",
+  "origSubject": "External Mentor for IIM Trichy Entrepreneurship"
+ },
+ {
+  "n": 314,
+  "to": "tsic@telangana.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2841495268399473345",
+  "threadId": "1a0dc4d1a2a5c7f8",
+  "origMessageId": "1a0dc56c118f1279",
+  "origSubject": "Mentoring Support for Telangana Innovation Cell Founders"
+ },
+ {
+  "n": 320,
+  "to": "info@itpolicyup.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4342741658391163863",
+  "threadId": "1a0dc4d6b298b427",
+  "origMessageId": "1a0dc56d769b0152",
+  "origSubject": "Mentoring Support for StartInUP Founders"
+ },
+ {
+  "n": 326,
+  "to": "msme@wb.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2078155996870604885",
+  "threadId": "1a0dc4dcb5cb112c",
+  "origMessageId": "1a0dc56e5d490cd3",
+  "origSubject": "Mentoring Support for Startup Bengal Founders"
+ },
+ {
+  "n": 520,
+  "to": "mrudang.shukla@mituniversity.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1722655490952470066",
+  "threadId": "1a0df76e82412a1a",
+  "origMessageId": "1a0e18b3ff6b9014",
+  "origSubject": "External Mentor for AIC MIT ADT"
+ },
+ {
+  "n": 531,
+  "to": "incubation.au@adamasuniversity.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7368054687097480469",
+  "threadId": "1a0df7770c6ab6b5",
+  "origMessageId": "1a0e18b2da5643bc",
+  "origSubject": "External Mentor for Adamas University Incubation Cell"
+ },
+ {
+  "n": 538,
+  "to": "jeechair@iitjammu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8496243700503964765",
+  "threadId": "1a0df7d3917ac86b",
+  "origMessageId": "1a0e18b1a317f771",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Jammu"
+ },
+ {
+  "n": 544,
+  "to": "deanac@nitdgp.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7967359326352530346",
+  "threadId": "1a0df7dc5a347408",
+  "origMessageId": "1a0e18aefff477af",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Durgapur"
+ },
+ {
+  "n": 550,
+  "to": "basakranjan@nitsikkim.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6344930233358176602",
+  "threadId": "1a0df7e4ebc6ef86",
+  "origMessageId": "1a0e18adf9a7c245",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Sikkim"
+ },
+ {
+  "n": 556,
+  "to": "dtripathi@nituk.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7607610247953080414",
+  "threadId": "1a0df7eca14a1432",
+  "origMessageId": "1a0e18ace259519f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Uttarakhand"
+ },
+ {
+  "n": 562,
+  "to": "chinmoy@iiitkalyani.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8501638244701951955",
+  "threadId": "1a0df7f54ed4e436",
+  "origMessageId": "1a0e18abeec471e2",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Kalyani"
+ },
+ {
+  "n": 568,
+  "to": "deepshikha@iiitl.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1442865540616073324",
+  "threadId": "1a0df7fe156db8ee",
+  "origMessageId": "1a0e18aa7dcb744d",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Lucknow"
+ },
+ {
+  "n": 574,
+  "to": "admission@iiitsurat.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6924404805736346448",
+  "threadId": "1a0df806cd340619",
+  "origMessageId": "1a0e18a9528a5a64",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Surat"
+ },
+ {
+  "n": 580,
+  "to": "anirban@nielit.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r892482082530409957",
+  "threadId": "1a0df80ebd0ad901",
+  "origMessageId": "1a0e18a856e44df9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Aurangabad"
+ },
+ {
+  "n": 586,
+  "to": "admissions@ptuniv.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1137314843757321466",
+  "threadId": "1a0df81782d8973f",
+  "origMessageId": "1a0e18a73542a12e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Puducherry Technological University"
+ },
+ {
+  "n": 592,
+  "to": "dir-patna@nielit.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6652234117249601628",
+  "threadId": "1a0df820611a04e5",
+  "origMessageId": "1a0e18a4cd37a2bf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Patna"
+ },
+ {
+  "n": 598,
+  "to": "dir-imphal@nielit.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2318740659698336768",
+  "threadId": "1a0df8282af83b1b",
+  "origMessageId": "1a0e18a3dae7dcdf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Imphal"
+ },
+ {
+  "n": 605,
+  "to": "admin.bit@bitcollege.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7489269707435385751",
+  "threadId": "1a0e167c3e7348fb",
+  "origMessageId": "1a0e18a2c88b82d9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bengal Institute of Technology"
+ },
+ {
+  "n": 611,
+  "to": "nitmadm0917@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7765676407604171431",
+  "threadId": "1a0e16849290264b",
+  "origMessageId": "1a0e18a1ffb27162",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Nagaji Institute of Technology & Management, Gwalior"
+ },
+ {
+  "n": 617,
+  "to": "admissions@rgu.ac",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8839369780953045725",
+  "threadId": "1a0e168cf36eaa47",
+  "origMessageId": "1a0e18a0f88fc7fb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 The Assam Royal Global University"
+ },
+ {
+  "n": 623,
+  "to": "info@bitms.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r9013916224441965063",
+  "threadId": "1a0e16952a1d67f4",
+  "origMessageId": "1a0e189f67b3ed5e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bengal Institute of Technology and Management"
+ },
+ {
+  "n": 629,
+  "to": "admissions@bkbiet.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6554263163244308565",
+  "threadId": "1a0e16a0e7887627",
+  "origMessageId": "1a0e189e191b64a3",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 B.K. Birla Institute of Engineering and Technology"
+ },
+ {
+  "n": 635,
+  "to": "admissions.nmit@nitte.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4873627163705898776",
+  "threadId": "1a0e16a99505f362",
+  "origMessageId": "1a0e189ce3ddada6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Nitte Meenakshi Institute of Technology"
+ },
+ {
+  "n": 641,
+  "to": "info@rungta.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5370882709640116336",
+  "threadId": "1a0e16b1d0feab80",
+  "origMessageId": "1a0e189c1121ac49",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rungta College of Engineering & Technology"
+ },
+ {
+  "n": 647,
+  "to": "contact@beehivecollege.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2852919624118511002",
+  "threadId": "1a0e16bb333d9990",
+  "origMessageId": "1a0e189a93e378cf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Beehive College of Engineering & Technology"
+ },
+ {
+  "n": 653,
+  "to": "admission@rrce.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7973206377972634479",
+  "threadId": "1a0e16c387538ece",
+  "origMessageId": "1a0e18998efc99f6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rajarajeswari College of Engineering"
+ },
+ {
+  "n": 659,
+  "to": "ppl@gec.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5876887945703155867",
+  "threadId": "1a0e16cb878beccd",
+  "origMessageId": "1a0e1898bec93f1f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Goa College of Engineering"
+ },
+ {
+  "n": 665,
+  "to": "principal@gndec.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-70966911673793176",
+  "threadId": "1a0e16d4b7b3f3f4",
+  "origMessageId": "1a0e18974b5e9709",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Guru Nanak Dev Engineering College"
+ },
+ {
+  "n": 671,
+  "to": "contactus@gtbit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7616900660973928029",
+  "threadId": "1a0e16dd1d24d3eb",
+  "origMessageId": "1a0e1895b2e1bcf6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Guru Tegh Bahadur Institute of Technology"
+ },
+ {
+  "n": 677,
+  "to": "facultydairy.auj@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7391350524398519921",
+  "threadId": "1a0e16e5392e06bf",
+  "origMessageId": "1a0e189489f7829c",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Faculty of Dairy Technology, Jodhpur"
+ },
+ {
+  "n": 683,
+  "to": "principal@gist.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5224463466017725109",
+  "threadId": "1a0e17a340e755e0",
+  "origMessageId": "1a0e189362a127da",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Geethanjali Institute of Science and Technology"
+ },
+ {
+  "n": 689,
+  "to": "info@bppimt.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2038675386803906454",
+  "threadId": "1a0e17ab99bf94a2",
+  "origMessageId": "1a0e1892486540b6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 B. P. Poddar Institute of Management & Technology"
+ },
+ {
+  "n": 695,
+  "to": "admissions@poornima.edu.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e17b3fe73857f",
+  "origMessageId": "1a0e18907c532ca4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rajasthan Institute of Engineering & Technology"
+ },
+ {
+  "n": 701,
+  "to": "uiitofficehpu@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8620588972206252344",
+  "threadId": "1a0e17bc5706cbae",
+  "origMessageId": "1a0e188f717adf81",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University Institute of Technology, Himachal Pradesh University, Shimla"
+ },
+ {
+  "n": 707,
+  "to": "principal@uit.buruniv.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4200774350021960786",
+  "threadId": "1a0e17f292b2b9ec",
+  "origMessageId": "1a0e188e779f731a",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University Institute of Technology, Burdwan"
+ },
+ {
+  "n": 713,
+  "to": "principal@staff.vce.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1786791304476517235",
+  "threadId": "1a0e17fbeabc4038",
+  "origMessageId": "1a0e188d6365af4e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Vasavi College of Engineering"
+ },
+ {
+  "n": 719,
+  "to": "info@mimitmalout.ac.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e1805b8de47b1",
+  "origMessageId": "1a0e188c5bfd9035",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Malout Institute of Management and Information Technology, Malout"
+ },
+ {
+  "n": 725,
+  "to": "principal_nimra@yahoo.co.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-457241731780350756",
+  "threadId": "1a0e180ddedb4ecc",
+  "origMessageId": "1a0e188ac9f05028",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Nimra College of Engineering and Technology"
+ },
+ {
+  "n": 731,
+  "to": "info@sittechno.org",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e1817726acb94",
+  "origMessageId": "1a0e188996064190",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Siliguri Institute of Technology"
+ },
+ {
+  "n": 737,
+  "to": "info@silicon.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1985068800440059040",
+  "threadId": "1a0e18213f9008f9",
+  "origMessageId": "1a0e18882e25f282",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Silicon Institute of Technology"
+ },
+ {
+  "n": 1436,
+  "to": "ankit@fitt-iitd.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-373538475714359375",
+  "threadId": "1a0e7ab8a1987840",
+  "origMessageId": "1a0ebb2345be43b0",
+  "origSubject": "External Mentor for FITT \u2013 IIT Delhi"
+ },
+ {
+  "n": 1442,
+  "to": "anand.pandey@jaipur.manipal.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3727167938762311979",
+  "threadId": "1a0e7ac029f93411",
+  "origMessageId": "1a0ebb27517bdc25",
+  "origSubject": "External Mentor for Manipal University Jaipur"
+ },
+ {
+  "n": 8,
+  "to": "office@incubation.iitm.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r4677994707304808764",
+  "threadId": "1a0da873220006e9",
+  "origMessageId": "1a0dbfbbe8526345",
+  "origSubject": "External Mentor for IITM Incubation Cell"
+ },
+ {
+  "n": 14,
+  "to": "enquiry@iimklive.org",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-1135554555954379731",
+  "threadId": "1a0da8796a91a160",
+  "origMessageId": "1a0dbfba6f076acf",
+  "origSubject": "Mentoring Support for IIMK LIVE"
+ },
+ {
+  "n": 20,
+  "to": "mutbi.mit@manipal.edu",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r9025334851398151258",
+  "threadId": "1a0da8a1620d0841",
+  "origMessageId": "1a0dbfb99d28d897",
+  "origSubject": "Mentoring Support for MUTBI"
+ },
+ {
+  "n": 26,
+  "to": "tic@iitg.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r3555883772638671782",
+  "threadId": "1a0da8e94c5ffc9f",
+  "origMessageId": "1a0dbfb81767eee8",
+  "origSubject": "Mentoring Support for IITG TIC"
+ },
+ {
+  "n": 32,
+  "to": "incubation@iimu.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r3211183976762609700",
+  "threadId": "1a0da8f011d96c90",
+  "origMessageId": "1a0dbfb72795f647",
+  "origSubject": "Mentoring Support for IIMU Incubation Centre"
+ },
+ {
+  "n": 38,
+  "to": "incubationcenter@iimv.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-2376424573186815303",
+  "threadId": "1a0da8f7193b7dc6",
+  "origMessageId": "1a0dbfb4d1059e0a",
+  "origSubject": "Exploring a Mentor Association with IIMV FIELD"
+ },
+ {
+  "n": 73,
+  "to": "info@ssnifound.in",
+  "status": "skipped",
+  "reason": "human reply (Boniface@ssnifound.in asked to reach out after Oct 12)",
+  "draftId": null,
+  "threadId": "1a0da992b3898084",
+  "origMessageId": null,
+  "origSubject": "External Mentor for SSN IFound"
+ },
+ {
+  "n": 79,
+  "to": "tbi@cumail.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-4362443660226111345",
+  "threadId": "1a0da998b79f67fe",
+  "origMessageId": "1a0dbfb0cbbec816",
+  "origSubject": "External Mentor for CU-TBI"
+ },
+ {
+  "n": 85,
+  "to": "ceo@startupsvalley.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r7960845288827989683",
+  "threadId": "1a0da9b270ec628b",
+  "origMessageId": "1a0dbfafa4b907f3",
+  "origSubject": "External Mentor for Startups Valley TBI"
+ },
+ {
+  "n": 116,
+  "to": "epic@svce.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-2955989189476889515",
+  "threadId": "1a0da9f06c7ce46b",
+  "origMessageId": "1a0dbfae6d117694",
+  "origSubject": "External Mentor for SVCE EPIC"
+ },
+ {
+  "n": 131,
+  "to": "incubation@rku.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-5794127391341450213",
+  "threadId": "1a0daa5cdff280b0",
+  "origMessageId": "1a0dbfad412627f2",
+  "origSubject": "External Mentor for K S Patel Centre for Entrepreneurship, RK University"
+ },
+ {
+  "n": 144,
+  "to": "jic@jecrc.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r272269004413096148",
+  "threadId": "1a0daac3336db6a2",
+  "origMessageId": "1a0dbfabfbd881f7",
+  "origSubject": "External Mentor for JECRC Incubation Centre"
+ },
+ {
+  "n": 185,
+  "to": "cedi@nitt.edu",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-8447076064279785536",
+  "threadId": "1a0dc33a98dabba5",
+  "origMessageId": "1a0dc365679a5de9",
+  "origSubject": "External Mentor for CEDI, NIT Trichy"
+ },
+ {
+  "n": 191,
+  "to": "incubation_madeit@iiitdm.ac.in",
+  "status": "skipped",
+  "reason": "human reply from Dr. Gayathri, conversation ongoing",
+  "draftId": null,
+  "threadId": "1a0dc33efc195315",
+  "origMessageId": null,
+  "origSubject": "External Mentor for MaDeIT Innovation Foundation"
+ },
+ {
+  "n": 198,
+  "to": "ganesh.sdc@saveetha.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-803583339800843027",
+  "threadId": "1a0df779a83e2b2e",
+  "origMessageId": "1a0e18b2821307e6",
+  "origSubject": "External Mentor for Saveetha SIMATS Innovation & Incubation Centre"
+ },
+ {
+  "n": 212,
+  "to": "info@aic-sku.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r2150820972996349595",
+  "threadId": "1a0dc3c33aab8af4",
+  "origMessageId": "1a0dc44025b038b5",
+  "origSubject": "External Mentor for AIC-SKU Startups"
+ },
+ {
+  "n": 241,
+  "to": "gcv.manager@iiits.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-1227433269701403876",
+  "threadId": "1a0dc48c7f342b3e",
+  "origMessageId": "1a0dc55d83246eec",
+  "origSubject": "External Mentor for Gyan Circle Ventures"
+ },
+ {
+  "n": 247,
+  "to": "enquiry@bhub.org.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-1389220257998527484",
+  "threadId": "1a0dc491bf128912",
+  "origMessageId": "1a0dc55ed8f9056f",
+  "origSubject": "External Mentor for B-HUB Founders"
+ },
+ {
+  "n": 253,
+  "to": "startup.cg@gov.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r2099217079338174806",
+  "threadId": "1a0dc497e67bfc71",
+  "origMessageId": "1a0dc5600cec8455",
+  "origSubject": "Mentoring Support for Startup Chhattisgarh Founders"
+ },
+ {
+  "n": 260,
+  "to": "entrepreneurship@ashoka.edu.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-3674768360952677718",
+  "threadId": "1a0dc49e0a520a2c",
+  "origMessageId": "1a0dc5618bccbe22",
+  "origSubject": "External Mentor for Ashoka InfoEdge Centre for Entrepreneurship"
+ },
+ {
+  "n": 266,
+  "to": "bilalmalik@kashmiruniversity.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-500323750883006916",
+  "threadId": "1a0dc4a468632c81",
+  "origMessageId": "1a0dc5628eccb5a4",
+  "origSubject": "External Mentor for University of Kashmir CIIE"
+ },
+ {
+  "n": 272,
+  "to": "it-secretary@jharkhand.gov.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure)",
+  "draftId": null,
+  "threadId": "1a0dc4aa72eb1bb1",
+  "origMessageId": null,
+  "origSubject": "Mentoring Support for Startup Jharkhand Founders"
+ },
+ {
+  "n": 278,
+  "to": "makervillage@iiitmk.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r5495185274207167036",
+  "threadId": "1a0dc4af9ac94b14",
+  "origMessageId": "1a0dc564e2bf8eb6",
+  "origSubject": "External Mentor for Maker Village Founders"
+ },
+ {
+  "n": 284,
+  "to": "infed@iimnagpur.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-644953253617734331",
+  "threadId": "1a0dc4b5629e754e",
+  "origMessageId": "1a0dc565ee24fa0d",
+  "origSubject": "External Mentor for InFED Founders"
+ },
+ {
+  "n": 290,
+  "to": "info@primemeghalaya.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r611491001851524420",
+  "threadId": "1a0dc4ba8719f2a4",
+  "origMessageId": "1a0dc5679cc6a173",
+  "origSubject": "Mentoring Support for PRIME Meghalaya Founders"
+ },
+ {
+  "n": 296,
+  "to": "startup.odisha@gov.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r4019412741191468876",
+  "threadId": "1a0dc4c0af712303",
+  "origMessageId": "1a0dc568a59c7b4e",
+  "origSubject": "Mentoring Support for Startup Odisha Founders"
+ },
+ {
+  "n": 302,
+  "to": "ceo@tisc.iitj.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-3925888175076828803",
+  "threadId": "1a0dc4c6a74c0628",
+  "origMessageId": "1a0dc569fbf9360b",
+  "origSubject": "External Mentor for TISC IIT Jodhpur"
+ },
+ {
+  "n": 308,
+  "to": "first@sastra.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-1077936738524732386",
+  "threadId": "1a0dc4cbb39d10f6",
+  "origMessageId": "1a0dc56ae5a961a3",
+  "origSubject": "External Mentor for SASTRA FIRST TBI"
+ },
+ {
+  "n": 315,
+  "to": "startup.tripuraagt@gmail.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-8476113930277970426",
+  "threadId": "1a0dc4d27b2f4f20",
+  "origMessageId": "1a0dc56c39b836ad",
+  "origSubject": "Mentoring Support for Startup Tripura Founders"
+ },
+ {
+  "n": 321,
+  "to": "fied@iimkashipur.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r6804526300898371231",
+  "threadId": "1a0dc4d87710e431",
+  "origMessageId": "1a0dc56d9ba8a653",
+  "origSubject": "External Mentor for FIED Founders"
+ },
+ {
+  "n": 510,
+  "to": "dean.incubation@bharathuniv.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r7792308453073486361",
+  "threadId": "1a0df767a8d91d46",
+  "origMessageId": "1a0e18b4a949c8f8",
+  "origSubject": "External Mentor for BIHER Incubation Centre"
+ },
+ {
+  "n": 521,
+  "to": "Sandhya.ingale@dypiu.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r7212025789593520730",
+  "threadId": "1a0df76fee4c8c21",
+  "origMessageId": "1a0e18b3bb8bdd88",
+  "origSubject": "External Mentor for D.Y. Patil CIIE"
+ },
+ {
+  "n": 533,
+  "to": "eyuvashoolini@shooliniuniversity.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-7901640519667574965",
+  "threadId": "1a0df778475b43e4",
+  "origMessageId": "1a0e18b2a7c3e07b",
+  "origSubject": "External Mentor for Shoolini eYUVA Innovation Centre"
+ },
+ {
+  "n": 539,
+  "to": "b.tech.admissions@iitdh.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r7441864592685535056",
+  "threadId": "1a0df7d4f4938366",
+  "origMessageId": "1a0e18b18ec90a40",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Dharwad"
+ },
+ {
+  "n": 545,
+  "to": "ugadmissions@nitgoa.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r4009247895025891247",
+  "threadId": "1a0df7dd8220b5fc",
+  "origMessageId": "1a0e18aedc2bcf67",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Goa"
+ },
+ {
+  "n": 551,
+  "to": "ugadmission@nitjsr.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r1864835061426316456",
+  "threadId": "1a0df7e64205aedd",
+  "origMessageId": "1a0e18adb8759ff0",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Jamshedpur"
+ },
+ {
+  "n": 557,
+  "to": "admissions@nitw.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r3345104629124146414",
+  "threadId": "1a0df7edfb2d4467",
+  "origMessageId": "1a0e18acab9e8db7",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Warangal"
+ },
+ {
+  "n": 563,
+  "to": "ckumar@iiitsonepat.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r1068697598626620429",
+  "threadId": "1a0df7f6bd3c56e8",
+  "origMessageId": "1a0e18abd0829780",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Sonepat"
+ },
+ {
+  "n": 569,
+  "to": "ugadmissions@iiitkottayam.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r5903430046235935396",
+  "threadId": "1a0df7ff68d85029",
+  "origMessageId": "1a0e18aa234da1b8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Kottayam"
+ },
+ {
+  "n": 575,
+  "to": "alka03@iiitr.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-1650755817558334627",
+  "threadId": "1a0df808112e0d98",
+  "origMessageId": "1a0e18a929116b7e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Raichur"
+ },
+ {
+  "n": 581,
+  "to": "amitkhare@spabhopal.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r8410050149001137969",
+  "threadId": "1a0df8101da395fc",
+  "origMessageId": "1a0e18a82faf848a",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 School of Planning & Architecture Bhopal"
+ },
+ {
+  "n": 587,
+  "to": "mkprayaga.niftem@gmail.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r6640266964356088880",
+  "threadId": "1a0df818f8ab0164",
+  "origMessageId": "1a0e18a7056d7fba",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIFTEM Kundli"
+ },
+ {
+  "n": 593,
+  "to": "dir-ajmer@nielit.gov.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-4057145678776840669",
+  "threadId": "1a0df821cd6eb86f",
+  "origMessageId": "1a0e18a49345a368",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Ajmer"
+ },
+ {
+  "n": 599,
+  "to": "dir-kohima@nielit.gov.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r382684044138709254",
+  "threadId": "1a0df8296cb64ab3",
+  "origMessageId": "1a0e18a38b4dc47a",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Kohima"
+ },
+ {
+  "n": 606,
+  "to": "info@nit.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r487070054617224224",
+  "threadId": "1a0e167d8dcb9205",
+  "origMessageId": "1a0e18a2a7bf4dfb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Narula Institute of Technology"
+ },
+ {
+  "n": 612,
+  "to": "info@mite.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-3764497167165037144",
+  "threadId": "1a0e1685ec955e54",
+  "origMessageId": "1a0e18a1a775d193",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Mangalore Institute of Technology & Engineering"
+ },
+ {
+  "n": 618,
+  "to": "admission.chandigarh@nmims.edu",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-2595754228777889403",
+  "threadId": "1a0e168e67993e34",
+  "origMessageId": "1a0e18a04c3c6985",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 SVKM's NMIMS Deemed to be University (Chandigarh)"
+ },
+ {
+  "n": 624,
+  "to": "info@buie.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r8532937868018508553",
+  "threadId": "1a0e169686480eb8",
+  "origMessageId": "1a0e189f572703ea",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bankura Unnayani Institute of Engineering"
+ },
+ {
+  "n": 630,
+  "to": "admissions@aimetc.apeejay.edu",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r1331863220203623938",
+  "threadId": "1a0e16a27fcfca85",
+  "origMessageId": "1a0e189dcda26b48",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Apeejay Institute of Management and Engineering Technical Campus"
+ },
+ {
+  "n": 636,
+  "to": "admin@ssit.co.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e16ab0f3cefbe",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Shree Swaminarayan Institute of Technology"
+ },
+ {
+  "n": 642,
+  "to": "info@sstc.com",
+  "status": "skipped",
+  "reason": "bounced (domain not found)",
+  "draftId": null,
+  "threadId": "1a0e16b3315556a7",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Shri Shankaracharya Technical Campus"
+ },
+ {
+  "n": 648,
+  "to": "info@sreedattha.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-6122160297615627561",
+  "threadId": "1a0e16bc9fbee141",
+  "origMessageId": "1a0e189a7bf5f5b2",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Sree Dattha Institute of Engineering and Science"
+ },
+ {
+  "n": 654,
+  "to": "admin@bitsindri.ac.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e16c4caa175c4",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 B I T Sindri"
+ },
+ {
+  "n": 660,
+  "to": "registrar@gcettb.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r6841415076974404620",
+  "threadId": "1a0e16cdfc2cf156",
+  "origMessageId": "1a0e18987229ff55",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Govt. College of Engineering and Textile Technology, Berhampore"
+ },
+ {
+  "n": 666,
+  "to": "principal@pkiet.edu.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r6197744743651959630",
+  "threadId": "1a0e16d63166699d",
+  "origMessageId": "1a0e18973100d680",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Perunthanalaivar Kamarajar Institute of Engineering and Technology"
+ },
+ {
+  "n": 672,
+  "to": "fiem@teamfutel.in",
+  "status": "skipped",
+  "reason": "bounced (domain not found)",
+  "draftId": null,
+  "threadId": "1a0e16de7989c5ef",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Future Institute of Engineering and Management"
+ },
+ {
+  "n": 678,
+  "to": "principalbfcet@babafaridgroup.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r590104534936444744",
+  "threadId": "1a0e16e6a6bd29ad",
+  "origMessageId": "1a0e189459ee7457",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Baba Farid College of Engineering & Technology"
+ },
+ {
+  "n": 684,
+  "to": "info@adityatekkali.edu.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-5089356323451917582",
+  "threadId": "1a0e17a4ada25ff2",
+  "origMessageId": "1a0e1893512ab4e4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Aditya Institute of Technology and Management"
+ },
+ {
+  "n": 690,
+  "to": "info@stcet.ac.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e17acef9ec85f",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 St. Thomas' College of Engineering & Technology"
+ },
+ {
+  "n": 696,
+  "to": "info@globalinstitutes.edu.in",
+  "status": "skipped",
+  "reason": "bounced (address not found)",
+  "draftId": null,
+  "threadId": "1a0e17b554a07974",
+  "origMessageId": null,
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Global Group of Institutes"
+ },
+ {
+  "n": 702,
+  "to": "info@dronacharya.info",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-4170031469351765579",
+  "threadId": "1a0e17bda13cab59",
+  "origMessageId": "1a0e188f2f1ce1eb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Dronacharya College of Engineering"
+ },
+ {
+  "n": 708,
+  "to": "director@camelliait.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r5890641987874786816",
+  "threadId": "1a0e17f3e8395c61",
+  "origMessageId": "1a0e188e4988cd85",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Camellia Institute of Technology"
+ },
+ {
+  "n": 714,
+  "to": "info@mlritm.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r1300428943865360969",
+  "threadId": "1a0e17fd78773607",
+  "origMessageId": "1a0e188d417f7e5d",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Marri Laxman Reddy Institute of Technology and Management"
+ },
+ {
+  "n": 720,
+  "to": "kiit@kiit.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-5792431435696915629",
+  "threadId": "1a0e1807149dbd49",
+  "origMessageId": "1a0e188c3aec8797",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Kalinga Institute of Industrial Technology"
+ },
+ {
+  "n": 726,
+  "to": "directoruiet@pu.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-4960958807525593313",
+  "threadId": "1a0e180f2f8e67bc",
+  "origMessageId": "1a0e188aaee9b04c",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University Institute of Engineering and Technology, Panjab University"
+ },
+ {
+  "n": 732,
+  "to": "dcet@deccancollege.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r8697069937090152762",
+  "threadId": "1a0e1818cf527d87",
+  "origMessageId": "1a0e188949d12e58",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Deccan College of Engineering & Technology"
+ },
+ {
+  "n": 738,
+  "to": "gkcet12311@gmail.com",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-5822002323639693697",
+  "threadId": "1a0e1822abe97ebb",
+  "origMessageId": "1a0e1887efb1d649",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Gopal Krishna College of Engineering & Technology, Jeypore"
+ },
+ {
+  "n": 1437,
+  "to": "gauravkumar.sbme@galgotiasuniversity.edu.in",
+  "status": "skipped",
+  "reason": "human reply from Dr. Gaurav Kumar, conversation ongoing",
+  "draftId": null,
+  "threadId": "1a0e7ab9e5f6cdf7",
+  "origMessageId": null,
+  "origSubject": "External Mentor for Galgotias University"
+ },
+ {
+  "n": 1443,
+  "to": "amit.sehgal@sharda.ac.in",
+  "status": "drafted",
+  "reason": null,
+  "draftId": "r-3317000887047346554",
+  "threadId": "1a0e7ac161af1cf5",
+  "origMessageId": "1a0ebb207c9ed583",
+  "origSubject": "External Mentor for Sharda University \u2013 Launchpad"
+ },
+ {
+  "n": 9,
+  "to": "mdfitt@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1582988387929133675",
+  "threadId": "1a0da8743ab18416",
+  "origMessageId": "1a0dbfbbc15075ff",
+  "origSubject": "Mentoring Support for FITT Startups"
+ },
+ {
+  "n": 15,
+  "to": "vittbi@vit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2541628493457592793",
+  "threadId": "1a0da89c2d703225",
+  "origMessageId": "1a0dbfba46188eb6",
+  "origSubject": "External Mentor for VIT TBI"
+ },
+ {
+  "n": 21,
+  "to": "info@jainlaunchpad.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1893938919214726121",
+  "threadId": "1a0da8a25304a152",
+  "origMessageId": "1a0dbfb96db94e94",
+  "origSubject": "Supporting Founders at JAIN Launchpad"
+ },
+ {
+  "n": 27,
+  "to": "i3f@iitbhu.ac.in",
+  "status": "skipped",
+  "reason": "human reply from i3f@itbhu.ac.in; conversation ongoing",
+  "draftId": null,
+  "threadId": "1a0da8ea58c83a6f",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 33,
+  "to": "tbi@kiitincubator.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-574968244891142440",
+  "threadId": "1a0da8f110f91f55",
+  "origMessageId": "1a0dbfb5bcac37a7",
+  "origSubject": "International Mentoring Support for KIIT TBI"
+ },
+ {
+  "n": 39,
+  "to": "iciitp@iitp.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7339848042508106673",
+  "threadId": "1a0da8f804639e54",
+  "origMessageId": "1a0dbfb4923f36de",
+  "origSubject": "External Mentor for Incubation Centre IIT Patna"
+ },
+ {
+  "n": 74,
+  "to": "bit-tbi@bitsathy.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5762749753098336082",
+  "threadId": "1a0da993aff470b2",
+  "origMessageId": "1a0dbfb220574120",
+  "origSubject": "External Mentor for BIT TBI"
+ },
+ {
+  "n": 80,
+  "to": "vfstrtbi@vignan.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5987876401886870912",
+  "threadId": "1a0da9a568110d40",
+  "origMessageId": "1a0dbfb0876be292",
+  "origSubject": "External Mentor for Vignan TBI"
+ },
+ {
+  "n": 100,
+  "to": "ceo.tbi@kluniversity.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1693111429757643763",
+  "threadId": "1a0dc3be81642875",
+  "origMessageId": "1a0dc43f716af0a4",
+  "origSubject": "External Mentor for KLTIF-TBI Startups"
+ },
+ {
+  "n": 122,
+  "to": "tomanto@fisat.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2643460277752408320",
+  "threadId": "1a0daa0111c83017",
+  "origMessageId": "1a0dbfae593eb0e9",
+  "origSubject": "External Mentor for Federal Labz, FISAT"
+ },
+ {
+  "n": 132,
+  "to": "ict.nice@ictmumbai.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1923728805997907425",
+  "threadId": "1a0daa5dedbf7174",
+  "origMessageId": "1a0dbfad307867d8",
+  "origSubject": "External Mentor for ICT-NICE Venture Incubator"
+ },
+ {
+  "n": 145,
+  "to": "rajesh@glsuniversity.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4708903511580537785",
+  "threadId": "1a0daac4166b4836",
+  "origMessageId": "1a0dbfabb27ad92f",
+  "origSubject": "External Mentor for LEAF, GLS University"
+ },
+ {
+  "n": 186,
+  "to": "jawa_ts@yahoo.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4448916654632951263",
+  "threadId": "1a0dc33e1658faf6",
+  "origMessageId": "1a0dc3660e143467",
+  "origSubject": "External Mentor for TREC-STEP"
+ },
+ {
+  "n": 192,
+  "to": "startup@sathyabama.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3427422972454615265",
+  "threadId": "1a0dc33fd5f83e95",
+  "origMessageId": "1a0dc36648fd386e",
+  "origSubject": "External Mentor for Sathyabama TBI"
+ },
+ {
+  "n": 207,
+  "to": "director.entr@srmap.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8865175276793251638",
+  "threadId": "1a0dc3bdaeae978d",
+  "origMessageId": "1a0dc43f42f5ff91",
+  "origSubject": "External Mentor for SRM AP Hatchlab Founders"
+ },
+ {
+  "n": 213,
+  "to": "ceo.spmvv@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2925936647729602043",
+  "threadId": "1a0dc3c4152c0d34",
+  "origMessageId": "1a0dc44067b45e54",
+  "origSubject": "External Mentor for SSIIE-SPMVV Women Founders"
+ },
+ {
+  "n": 242,
+  "to": "innovationsociety@ap.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4403089800726047380",
+  "threadId": "1a0dc48d5ed179dc",
+  "origMessageId": "1a0dc55db1f40cfc",
+  "origSubject": "Mentoring Support for AP Innovation Society Founders"
+ },
+ {
+  "n": 248,
+  "to": "Incubation@nitp.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8768248486457013231",
+  "threadId": "1a0dc4929a7e0c51",
+  "origMessageId": "1a0dc55f06ec72fa",
+  "origSubject": "External Mentor for NIT Patna Incubation Center"
+ },
+ {
+  "n": 254,
+  "to": "nsutiif@nsut.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-545630697870130683",
+  "threadId": "1a0dc498d31daf59",
+  "origMessageId": "1a0dc56051037e2a",
+  "origSubject": "External Mentor for NSUT-IIF Founders"
+ },
+ {
+  "n": 261,
+  "to": "ssunita@cuh.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6433867281564712535",
+  "threadId": "1a0dc4a02c75741f",
+  "origMessageId": "1a0dc561a26c4496",
+  "origSubject": "External Mentor for CUH Centre for Innovation & Incubation"
+ },
+ {
+  "n": 267,
+  "to": "manager.itbi@iimj.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2715185626339292336",
+  "threadId": "1a0dc4a53868f278",
+  "origMessageId": "1a0dc562a55bc545",
+  "origSubject": "External Mentor for IIM Jammu Incubation"
+ },
+ {
+  "n": 273,
+  "to": "taslim@ccamp.res.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2944531826792826756",
+  "threadId": "1a0dc4ab51bbdf1a",
+  "origMessageId": "1a0dc56415043742",
+  "origSubject": "External Mentor for C-CAMP Founders"
+ },
+ {
+  "n": 279,
+  "to": "aic@rntu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8430241033844395650",
+  "threadId": "1a0dc4b067384310",
+  "origMessageId": "1a0dc56526779686",
+  "origSubject": "External Mentor for AIC-RNTU Founders"
+ },
+ {
+  "n": 285,
+  "to": "sine@sineiitb.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4795461834263357068",
+  "threadId": "1a0dc4b65d340144",
+  "origMessageId": "1a0dc566159ccd79",
+  "origSubject": "External Mentor for SINE IIT Bombay"
+ },
+ {
+  "n": 291,
+  "to": "mahruaia123@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-785514097513481820",
+  "threadId": "1a0dc4bc7ac8c305",
+  "origMessageId": "1a0dc567b4f9b091",
+  "origSubject": "External Mentor for Mizoram University BioNEST"
+ },
+ {
+  "n": 297,
+  "to": "ceo@aicpecf.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3572355562376629676",
+  "threadId": "1a0dc4c17a234e1d",
+  "origMessageId": "1a0dc568c83efdd1",
+  "origSubject": "External Mentor for AIC-PEC Founders"
+ },
+ {
+  "n": 303,
+  "to": "startups.doit@rajasthan.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8045435902808210259",
+  "threadId": "1a0dc4c789a997ce",
+  "origMessageId": "1a0dc56a1ecd6301",
+  "origSubject": "Mentoring Support for iStart Rajasthan Founders"
+ },
+ {
+  "n": 309,
+  "to": "mentor@startuptn.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1528780491403221470",
+  "threadId": "1a0dc4cc8bfc1b6a",
+  "origMessageId": "1a0dc56b212e2999",
+  "origSubject": "MentorTN External Mentor Support"
+ },
+ {
+  "n": 316,
+  "to": "rpsinhabhu@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6304051519069295851",
+  "threadId": "1a0dc4d35628bc80",
+  "origMessageId": "1a0dc56cae482e59",
+  "origSubject": "External Mentor for BHU BioNEST"
+ },
+ {
+  "n": 322,
+  "to": "startupcelluk@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2166830777882289190",
+  "threadId": "1a0dc4d94b43dae3",
+  "origMessageId": "1a0dc56db9a68b8c",
+  "origSubject": "Mentoring Support for Startup Uttarakhand Founders"
+ },
+ {
+  "n": 515,
+  "to": "business@tnau.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8929266101353591081",
+  "threadId": "1a0df768f55a9d86",
+  "origMessageId": "1a0e18b487400ae4",
+  "origSubject": "External Advisor for TNAU Agribusiness Development"
+ },
+ {
+  "n": 522,
+  "to": "enquiry@flame.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3720675312451020921",
+  "threadId": "1a0df7713849d0d8",
+  "origMessageId": "1a0e18b391dcc5ba",
+  "origSubject": "External Mentor for FLAME Centre for Entrepreneurship & Innovation"
+ },
+ {
+  "n": 534,
+  "to": "ardracademic@iiti.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-9219748674728023768",
+  "threadId": "1a0df7ce7d5f800a",
+  "origMessageId": "1a0e18b2524da853",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Indore"
+ },
+ {
+  "n": 540,
+  "to": "as.daug@nitj.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-51687426633076927",
+  "threadId": "1a0df7d62d6ec17b",
+  "origMessageId": "1a0e18b114bd2c60",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Jalandhar"
+ },
+ {
+  "n": 546,
+  "to": "rajeev@nith.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2478002604911680638",
+  "threadId": "1a0df7dec8b1a621",
+  "origMessageId": "1a0e18ae97a1b35f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Hamirpur"
+ },
+ {
+  "n": 552,
+  "to": "dean_academic@nitkkr.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7564669971209245204",
+  "threadId": "1a0df7e786508e23",
+  "origMessageId": "1a0e18ad895447e8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Kurukshetra"
+ },
+ {
+  "n": 558,
+  "to": "vk@phy.svnit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8368478190208992094",
+  "threadId": "1a0df7f00089f506",
+  "origMessageId": "1a0e18ac9c9b1993",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 SVNIT Surat"
+ },
+ {
+  "n": 564,
+  "to": "csabcoordinator@iiitu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6018608303929800738",
+  "threadId": "1a0df7f7c4037001",
+  "origMessageId": "1a0e18abb93eee2b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Una"
+ },
+ {
+  "n": 570,
+  "to": "admission@iiitranchi.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2029355171135558709",
+  "threadId": "1a0df800b12d010c",
+  "origMessageId": "1a0e18aa105473c6",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Ranchi"
+ },
+ {
+  "n": 576,
+  "to": "nodal_officer@diu.iiitvadodara.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5506413048733040542",
+  "threadId": "1a0df8096d5f797b",
+  "origMessageId": "1a0e18a90a805e1b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Vadodara International Campus Diu"
+ },
+ {
+  "n": 582,
+  "to": "admission@spa.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5436684328941542347",
+  "threadId": "1a0df812555c0beb",
+  "origMessageId": "1a0e18a81fec29da",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 School of Planning & Architecture New Delhi"
+ },
+ {
+  "n": 588,
+  "to": "admission@iifpt.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4980297185873029342",
+  "threadId": "1a0df81a400469d3",
+  "origMessageId": "1a0e18a6e8070231",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIFTEM Thanjavur"
+ },
+ {
+  "n": 594,
+  "to": "dir-gorakhpur@nielit.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4660114540606104451",
+  "threadId": "1a0df8231f10e8ee",
+  "origMessageId": "1a0e18a469a7ef83",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIELIT Gorakhpur"
+ },
+ {
+  "n": 601,
+  "to": "principal.ucek@jntucek.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5575138538183858860",
+  "threadId": "1a0e1676a5672512",
+  "origMessageId": "1a0e18a370ef6fdf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 University College of Engineering Kakinada"
+ },
+ {
+  "n": 607,
+  "to": "principal@gcelt.gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5243561257931564213",
+  "threadId": "1a0e167ec326ae7b",
+  "origMessageId": "1a0e18a2660246ab",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Government College of Engineering and Leather Technology"
+ },
+ {
+  "n": 613,
+  "to": "info@ggsestc.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8442696110662586663",
+  "threadId": "1a0e16876deb4e90",
+  "origMessageId": "1a0e18a1949fb3c9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Guru Gobind Singh Educational Society's Technical Campus"
+ },
+ {
+  "n": 619,
+  "to": "ga@dtu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5440516920549361222",
+  "threadId": "1a0e168fbf1833ff",
+  "origMessageId": "1a0e18a00b56b445",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Delhi Technological University"
+ },
+ {
+  "n": 625,
+  "to": "director@ciem.ac.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e1697c8151760",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 631,
+  "to": "contact@christcet.edu.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e16a3d57de60a",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 637,
+  "to": "admin@rkce.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7251018670248532079",
+  "threadId": "1a0e16ac4971b1bb",
+  "origMessageId": "1a0e189c941dbf49",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 R.K. College of Engineering"
+ },
+ {
+  "n": 643,
+  "to": "registrar@jamiahamdard.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5729774885063829153",
+  "threadId": "1a0e16b48a1778a9",
+  "origMessageId": "1a0e189b274bde76",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Jamia Hamdard"
+ },
+ {
+  "n": 649,
+  "to": "webadmin@mbm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6531664222373928083",
+  "threadId": "1a0e16bde69d150e",
+  "origMessageId": "1a0e189a3093addf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 MBM University, Jodhpur"
+ },
+ {
+  "n": 655,
+  "to": "studentbranchjec@jecassam.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4161952213043965037",
+  "threadId": "1a0e16c631c67498",
+  "origMessageId": "1a0e189942d48d83",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Jorhat Engineering College"
+ },
+ {
+  "n": 661,
+  "to": "info@ticollege.ac.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e16cf5e950a01",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 667,
+  "to": "principal@bietdvg.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4058201899290743093",
+  "threadId": "1a0e16d78b6df874",
+  "origMessageId": "1a0e1896ff5113c4",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Bapuji Institute of Engineering & Technology"
+ },
+ {
+  "n": 673,
+  "to": "chairman@istonline.org.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2718953982876280380",
+  "threadId": "1a0e16dfd9021213",
+  "origMessageId": "1a0e1895675823cd",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Institute of Science and Technology (Kolkata)"
+ },
+ {
+  "n": 679,
+  "to": "info@rgcetpdy.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5706898344061313699",
+  "threadId": "1a0e16e80022acb2",
+  "origMessageId": "1a0e18943a51c583",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rajiv Gandhi College of Engineering and Technology, Puducherry"
+ },
+ {
+  "n": 685,
+  "to": "info@gecassam.ac.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e17a61a9736fa",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 691,
+  "to": "director@gbpiet.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8462195841062426815",
+  "threadId": "1a0e17ae4e242108",
+  "origMessageId": "1a0e18921b015163",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 G.B. Pant Institute of Engineering and Technology"
+ },
+ {
+  "n": 697,
+  "to": "info@bietbhadrak.ac.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e17b6a91c5be4",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 703,
+  "to": "vkrvnbengineering@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r480454776011612396",
+  "threadId": "1a0e17ed057c42a8",
+  "origMessageId": "1a0e188f13afbabb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 V.K.R., V.N.B. A.G.K. College of Engineering"
+ },
+ {
+  "n": 709,
+  "to": "info@technocollegehooghly.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-213895060322094153",
+  "threadId": "1a0e17f53557760b",
+  "origMessageId": "1a0e188e0e5f312f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Techno College Hooghly"
+ },
+ {
+  "n": 715,
+  "to": "admin@peri.education",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1234915825746457265",
+  "threadId": "1a0e17fea412422c",
+  "origMessageId": "1a0e188d3f069112",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 PERI Institute of Technology"
+ },
+ {
+  "n": 721,
+  "to": "info@rjit.ac.in",
+  "status": "skipped",
+  "reason": "bounced (DSN failure)",
+  "draftId": null,
+  "threadId": "1a0e18085a01d5cc",
+  "origMessageId": null,
+  "origSubject": null
+ },
+ {
+  "n": 727,
+  "to": "mait@mait.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1045627655726733187",
+  "threadId": "1a0e1811e5019343",
+  "origMessageId": "1a0e188a67410b1b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Maharaja Agrasen Institute of Technology"
+ },
+ {
+  "n": 733,
+  "to": "idhaya@iecw.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-163909086926704174",
+  "threadId": "1a0e181a26d07610",
+  "origMessageId": "1a0e18893964086f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Idhaya Engineering College for Women"
+ },
+ {
+  "n": 739,
+  "to": "principal@gecbh.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5790082379665482407",
+  "threadId": "1a0e1823f6bbee55",
+  "origMessageId": "1a0e1887db583d91",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Government Engineering College, Barton Hill"
+ },
+ {
+  "n": 1438,
+  "to": "sivaraj@bioincubator.iitm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8305173528664118181",
+  "threadId": "1a0e7abb2d3ede19",
+  "origMessageId": "1a0ebb26cc8f3834",
+  "origSubject": "External Mentor for IIT Madras Bioincubator"
+ },
+ {
+  "n": 1444,
+  "to": "pchandrakumar@veltech.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6441006135063253632",
+  "threadId": "1a0e7ac2d0dd7331",
+  "origMessageId": "1a0ec21ee555faeb",
+  "origSubject": "External Mentor for Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology"
+ },
+ {
+  "n": 10,
+  "to": "ventures@iima.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8818805795969491394",
+  "threadId": "1a0da87548735ae9",
+  "origMessageId": "1a0dbfbbaa260d54",
+  "origSubject": "Exploring a Mentor Association with IIMA Ventures"
+ },
+ {
+  "n": 16,
+  "to": "step@psgtech.edu",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7357797840307866268",
+  "threadId": "1a0da89d202bbb80",
+  "origMessageId": "1a0dbfba3928c571",
+  "origSubject": "Mentoring Support for PSG STEP"
+ },
+ {
+  "n": 22,
+  "to": "tbi@nitc.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8092505821474787005",
+  "threadId": "1a0da8e53b6b1ab6",
+  "origMessageId": "1a0dbfb8ac856279",
+  "origSubject": "External Mentor for NIT Calicut TBI"
+ },
+ {
+  "n": 28,
+  "to": "info@iiitdic.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4817534377915456494",
+  "threadId": "1a0da8eb4111b07f",
+  "origMessageId": "1a0dbfb7d70401ac",
+  "origSubject": "Mentoring Support for IIITD Innovation and Incubation Center"
+ },
+ {
+  "n": 34,
+  "to": "ftbi@nitrkl.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7663489751658803869",
+  "threadId": "1a0da8f2109a147b",
+  "origMessageId": "1a0dbfb57c274179",
+  "origSubject": "External Mentor for FTBI, NIT Rourkela"
+ },
+ {
+  "n": 40,
+  "to": "contact@smutbi.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4306302774920967452",
+  "threadId": "1a0da8f911e662a9",
+  "origMessageId": "1a0dbfb44c1d2746",
+  "origSubject": "International Mentoring Support for AIC-SMUTBI"
+ },
+ {
+  "n": 75,
+  "to": "info@acic-kif.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4706110006170688873",
+  "threadId": "1a0da994b9c13667",
+  "origMessageId": "1a0dbfb1f807910e",
+  "origSubject": "Mentoring Support for ACIC Kalasalingam Innovation Foundation"
+ },
+ {
+  "n": 81,
+  "to": "managertbi@spit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7302661905610206057",
+  "threadId": "1a0da9a67fb129ad",
+  "origMessageId": "1a0dbfb06170ea3c",
+  "origSubject": "External Mentor for SP-TBI"
+ },
+ {
+  "n": 112,
+  "to": "deaninnovation@sece.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3266247393839627525",
+  "threadId": "1a0da9ec5c12f176",
+  "origMessageId": "1a0dbfaf85a58bf4",
+  "origSubject": "External Mentor for IGNITE, Sri Eshwar College of Engineering"
+ },
+ {
+  "n": 123,
+  "to": "info@srix.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1816209538201645936",
+  "threadId": "1a0daa0203bfa77e",
+  "origMessageId": "1a0dbfae082d3b60",
+  "origSubject": "External Mentor for SRiX, SR University"
+ },
+ {
+  "n": 138,
+  "to": "tbikiet@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2881647077354127747",
+  "threadId": "1a0daa6a44d69f53",
+  "origMessageId": "1a0dbfac9f9a3e97",
+  "origSubject": "External Mentor for TBI-KIET"
+ },
+ {
+  "n": 149,
+  "to": "dypcoei_incubation@dypatilef.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8520940685106083693",
+  "threadId": "1a0dab1830d148da",
+  "origMessageId": "1a0dbfab8bcf96c3",
+  "origSubject": "External Mentor for DYPCOEI Incubation Centre"
+ },
+ {
+  "n": 187,
+  "to": "vishwanath@kctbs.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2158788550536555199",
+  "threadId": "1a0dc33b686c3403",
+  "origMessageId": "1a0dc3658356dc20",
+  "origSubject": "External Mentor for Coimbatore Innovation and Business Incubator (KCT)"
+ },
+ {
+  "n": 193,
+  "to": "incubation@sairam.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-9103215285200819426",
+  "threadId": "1a0dc340aece0fc4",
+  "origMessageId": "1a0dc3669a5a7d54",
+  "origSubject": "External Mentor for Sri Sairam Techno Incubator Foundation"
+ },
+ {
+  "n": 208,
+  "to": "ceo@vishva.co",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6717273275858704513",
+  "threadId": "1a0dc3bf68c5e932",
+  "origMessageId": "1a0dc43f8d06c42f",
+  "origSubject": "External Mentor for Vishva (Vishnu Foundation TBI)"
+ },
+ {
+  "n": 214,
+  "to": "satheesh.sietk@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2454965131887505321",
+  "threadId": "1a0dc3c4d834f64e",
+  "origMessageId": "1a0dc44083450b09",
+  "origSubject": "External Mentor for Siddharth International Incubation Centre"
+ },
+ {
+  "n": 243,
+  "to": "nm@nerist.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6297871387603344964",
+  "threadId": "1a0dc48e3f1e474d",
+  "origMessageId": "1a0dc55e3ed0995a",
+  "origSubject": "External Mentor for NERIST Incubation & Entrepreneurship Cell"
+ },
+ {
+  "n": 249,
+  "to": "startup-bihar@gov.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8289513711358251418",
+  "threadId": "1a0dc4936fded26a",
+  "origMessageId": "1a0dc55f42a1662d",
+  "origSubject": "Mentoring Support for Startup Bihar Founders"
+ },
+ {
+  "n": 255,
+  "to": "startups@aicgim.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2215813056340739028",
+  "threadId": "1a0dc499ba3f9787",
+  "origMessageId": "1a0dc5607b0b12f3",
+  "origSubject": "External Mentor for AIC-GIM Founders"
+ },
+ {
+  "n": 262,
+  "to": "ecell@iimrohtak.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8346528738884486021",
+  "threadId": "1a0dc4a0f3f9d9c2",
+  "origMessageId": "1a0dc561f0d328b5",
+  "origSubject": "External Mentor for IIM Rohtak Bizdome"
+ },
+ {
+  "n": 268,
+  "to": "cied@iust.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8348088181452561465",
+  "threadId": "1a0dc4a6114aad52",
+  "origMessageId": "1a0dc562f9e90477",
+  "origSubject": "External Mentor for IUST CIED"
+ },
+ {
+  "n": 274,
+  "to": "incubation.cell@christuniversity.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-690949627064285652",
+  "threadId": "1a0dc4ac2b3fc9d3",
+  "origMessageId": "1a0dc564294a983a",
+  "origSubject": "External Mentor for CHRIST C-IESC"
+ },
+ {
+  "n": 280,
+  "to": "IndustryInterface@iimidr.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r9016068200900987782",
+  "threadId": "1a0dc4b12bbf6a08",
+  "origMessageId": "1a0dc56541ce390e",
+  "origSubject": "External Mentor for IIM Indore Startups"
+ },
+ {
+  "n": 286,
+  "to": "stp@scitechpark.org.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3137972034037067868",
+  "threadId": "1a0dc4b725b79047",
+  "origMessageId": "1a0dc566988b0f9c",
+  "origSubject": "External Mentor for SciTech Park Founders"
+ },
+ {
+  "n": 292,
+  "to": "edcmizoram@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2985644735843514976",
+  "threadId": "1a0dc4bd3fe950c2",
+  "origMessageId": "1a0dc567ed81a255",
+  "origSubject": "Mentoring Support for Mizoram Startups"
+ },
+ {
+  "n": 298,
+  "to": "pgarul.ibm@pondiuni.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r20153670614254010",
+  "threadId": "1a0dc4c25fe9654f",
+  "origMessageId": "1a0dc5691b23b36e",
+  "origSubject": "External Mentor for Pondicherry University ASPIRE"
+ },
+ {
+  "n": 304,
+  "to": "sikkimindustries@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3839042443223565503",
+  "threadId": "1a0dc4c857ab3d62",
+  "origMessageId": "1a0dc56a30281410",
+  "origSubject": "Mentoring Support for Sikkim Startups"
+ },
+ {
+  "n": 310,
+  "to": "saiteja_reddy@isbdlabs.org",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2669050225767915999",
+  "threadId": "1a0dc4cd56086bd7",
+  "origMessageId": "1a0dc56b40c43d5e",
+  "origSubject": "External Mentor for DLabs ISB"
+ },
+ {
+  "n": 317,
+  "to": "incubator@iiml.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4863505983920891766",
+  "threadId": "1a0dc4d4135a2542",
+  "origMessageId": "1a0dc56cd4781be0",
+  "origSubject": "External Mentor for IIML-EIC Founders"
+ },
+ {
+  "n": 323,
+  "to": "tanmay@mechatronics.iiests.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8615323349261968998",
+  "threadId": "1a0dc4da31bae942",
+  "origMessageId": "1a0dc56de83b7f41",
+  "origSubject": "External Mentor for IIEST Shibpur Co-Innovation Centre"
+ },
+ {
+  "n": 516,
+  "to": "arthi_mba@avinuty.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8453201511495710547",
+  "threadId": "1a0df76a292d2368",
+  "origMessageId": "1a0e18b4535da692",
+  "origSubject": "External Mentor for Avinashilingam Innovation and Incubation Centre"
+ },
+ {
+  "n": 523,
+  "to": "vs@ahduni.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5861457351319982859",
+  "threadId": "1a0df7726a00a14c",
+  "origMessageId": "1a0e18b364335bc7",
+  "origSubject": "External Mentor for Ahmedabad University VentureStudio"
+ },
+ {
+  "n": 535,
+  "to": "dr.acad@iitgn.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-5320086049099705333",
+  "threadId": "1a0df7cfaa6d8502",
+  "origMessageId": "1a0e18b226118a87",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIT Gandhinagar"
+ },
+ {
+  "n": 541,
+  "to": "fic.admission@manit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3355002547297720423",
+  "threadId": "1a0df7d77435947a",
+  "origMessageId": "1a0e18b0f8017b05",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 MANIT Bhopal"
+ },
+ {
+  "n": 547,
+  "to": "admissions_incharge_ug@nitm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-2377018032477071065",
+  "threadId": "1a0df7e020c93d0e",
+  "origMessageId": "1a0e18ae76b60b1a",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Meghalaya"
+ },
+ {
+  "n": 553,
+  "to": "khel@nitmanipur.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3017989260240970415",
+  "threadId": "1a0df7e8cdc379a4",
+  "origMessageId": "1a0e18ad42b59a26",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 NIT Manipur"
+ },
+ {
+  "n": 559,
+  "to": "dr_acd@vnit.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7140844400243302031",
+  "threadId": "1a0df7f17e893af0",
+  "origMessageId": "1a0e18ac73449fb8",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 VNIT Nagpur"
+ },
+ {
+  "n": 565,
+  "to": "admissions@iiitvadodara.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7315524912931086124",
+  "threadId": "1a0df7f908323265",
+  "origMessageId": "1a0e18ab8f99d070",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Vadodara"
+ },
+ {
+  "n": 571,
+  "to": "jchakole@iiitn.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r2866904795412682606",
+  "threadId": "1a0df801ec6ba4f2",
+  "origMessageId": "1a0e18a9fdec84e9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 IIIT Nagpur"
+ },
+ {
+  "n": 577,
+  "to": "vc@aus.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r5342204203848098173",
+  "threadId": "1a0df80ab3a37b0f",
+  "origMessageId": "1a0e18a8fb8aa590",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Assam University, Silchar"
+ },
+ {
+  "n": 583,
+  "to": "admission@spav.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0df813a5b6ddf9",
+  "origMessageId": "1a0e18a7c3e1412f",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 School of Planning & Architecture Vijayawada"
+ },
+ {
+  "n": 589,
+  "to": "sufal.das@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-4899697720584591578",
+  "threadId": "1a0df81b971b826d",
+  "origMessageId": "1a0e18a6cd10b10a",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 North-Eastern Hill University"
+ },
+ {
+  "n": 595,
+  "to": "academic@rgnau.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-3578699968410958648",
+  "threadId": "1a0df824712d6d77",
+  "origMessageId": "1a0e18a4573f62d9",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rajiv Gandhi National Aviation University"
+ },
+ {
+  "n": 602,
+  "to": "director@rguktrkv.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r8337962984180275816",
+  "threadId": "1a0e16780d9d73c7",
+  "origMessageId": "1a0e18a35055cfdf",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 RGUKT-RK Valley"
+ },
+ {
+  "n": 608,
+  "to": "principal@drmcet.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4998626284645037283",
+  "threadId": "1a0e16804139b7fa",
+  "origMessageId": "1a0e18a246dd051b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Dr. Mahalingam College of Engineering and Technology"
+ },
+ {
+  "n": 614,
+  "to": "gecrampur@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-1924703772215008592",
+  "threadId": "1a0e1688ff4bd4ac",
+  "origMessageId": "1a0e18a1793e3299",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Mahatma Gandhi Government Engineering College, Kotla Jeori"
+ },
+ {
+  "n": 620,
+  "to": "agnelpcce@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1762608077198074757",
+  "threadId": "1a0e16912888b98e",
+  "origMessageId": "1a0e189fe298f61b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Padre Conceicao College of Engineering"
+ },
+ {
+  "n": 626,
+  "to": "info@shivalikcollege.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1453206892455545687",
+  "threadId": "1a0e169cf1904976",
+  "origMessageId": "1a0e189ea9039ded",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Shivalik College of Engineering"
+ },
+ {
+  "n": 632,
+  "to": "admissions@gita.edu.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0e16a53524fd3c",
+  "origMessageId": "1a0e189d627d9d1d",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 GITA Autonomous College, Bhubaneswar"
+ },
+ {
+  "n": 638,
+  "to": "principal@sircrrcoestd.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0e16adb6e5a6b3",
+  "origMessageId": "1a0e189c7b75ddfc",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Sir C R Reddy College of Engineering"
+ },
+ {
+  "n": 644,
+  "to": "admissions@aiemgoa.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0e16b72f06524a",
+  "origMessageId": "1a0e189b0e58829e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Agnel Institute of Technology and Design"
+ },
+ {
+  "n": 650,
+  "to": "admin@mvit.edu.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1187647612484757326",
+  "threadId": "1a0e16bf5025c7eb",
+  "origMessageId": "1a0e1899f5773917",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Manakula Vinayagar Institute of Technology"
+ },
+ {
+  "n": 656,
+  "to": "mitbihta@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1556241914081296752",
+  "threadId": "1a0e16c79b3a4f6f",
+  "origMessageId": "1a0e189902df02ca",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Mother's Institute of Technology"
+ },
+ {
+  "n": 662,
+  "to": "support@snuniv.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r7006081816393608953",
+  "threadId": "1a0e16d096cf90b0",
+  "origMessageId": "1a0e18983af9cee3",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Sister Nivedita University"
+ },
+ {
+  "n": 668,
+  "to": "chalapathiengtech@yahoo.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4883817956568106038",
+  "threadId": "1a0e16d8e50682c7",
+  "origMessageId": "1a0e18962e913b4c",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Chalapathi Institute of Engineering and Technology"
+ },
+ {
+  "n": 674,
+  "to": "admissions@geu.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r4253285290852442093",
+  "threadId": "1a0e16e125a5ba57",
+  "origMessageId": "1a0e189540ecf163",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Graphic Era Deemed to be University"
+ },
+ {
+  "n": 680,
+  "to": "info@outr.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r512266394839821470",
+  "threadId": "1a0e16e96acd6438",
+  "origMessageId": "1a0e1893f4e9252b",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Odisha University of Technology and Research"
+ },
+ {
+  "n": 686,
+  "to": "cit@jmi.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-6851751770412525744",
+  "threadId": "1a0e17a7d6a647e6",
+  "origMessageId": "1a0e1892cf278982",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Jamia Millia Islamia"
+ },
+ {
+  "n": 692,
+  "to": "mietw2008@gmail.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-7007207807540366447",
+  "threadId": "1a0e17afc7252aec",
+  "origMessageId": "1a0e1891f016c387",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Mina Institute of Engineering Technology for Women"
+ },
+ {
+  "n": 698,
+  "to": "info@tat.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0e17b8274ebcbf",
+  "origMessageId": "1a0e189018252bc3",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Trident Academy of Technology"
+ },
+ {
+  "n": 704,
+  "to": "rectt2023@ruce.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3944972469795898662",
+  "threadId": "1a0e17ee7281ac25",
+  "origMessageId": "1a0e188ee494d4de",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Rayalaseema University College of Engineering"
+ },
+ {
+  "n": 710,
+  "to": "fit@teamfuture.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1336876195305247684",
+  "threadId": "1a0e17f678635501",
+  "origMessageId": "1a0e188de1383fbb",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Future Institute of Technology"
+ },
+ {
+  "n": 716,
+  "to": "support@gitjaipur.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r1711324903852515050",
+  "threadId": "1a0e1800024da3eb",
+  "origMessageId": "1a0e188cc433dd8e",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Global Institute of Technology, Jaipur"
+ },
+ {
+  "n": 722,
+  "to": "principal@musaliarcollege.com",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r6998694501102701257",
+  "threadId": "1a0e1809a4262bda",
+  "origMessageId": "1a0e188bc3f9d303",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Musaliar College of Engineering"
+ },
+ {
+  "n": 728,
+  "to": "principal.gcect@gcect.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-8789567921449813158",
+  "threadId": "1a0e18135d6711f4",
+  "origMessageId": "1a0e188a56953acc",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Government College of Engineering & Ceramic Technology"
+ },
+ {
+  "n": 734,
+  "to": "info@jietjodhpur.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r3151449187687466951",
+  "threadId": "1a0e181b9bb894c2",
+  "origMessageId": "1a0e188905590726",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 Jodhpur Institute of Engineering & Technology"
+ },
+ {
+  "n": 740,
+  "to": "info@niftem.ac.in",
+  "status": "skipped",
+  "reason": "bounced (Delivery Status Notification Failure in thread)",
+  "draftId": null,
+  "threadId": "1a0e1825412516b3",
+  "origMessageId": "1a0e1887bceb4c89",
+  "origSubject": "External Advisor / Mentor Outreach \u2013 National Institute of Food Technology Entrepreneurship and Management"
+ },
+ {
+  "n": 1439,
+  "to": "mvp@iitm.ac.in",
+  "status": "drafted",
+  "reason": "",
+  "draftId": "r-508388279842843519",
+  "threadId": "1a0e7abc786327b1",
+  "origMessageId": "1a0ebb12a9bc2022",
+  "origSubject": "External Mentor for IIT Madras Incubation Cell"
+ }
+]
